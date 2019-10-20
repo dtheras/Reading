@@ -1,8 +1,8 @@
 # Readings
 List of books I've read, post 2016
 
-|  Year | Author                     | Title                                                                                                                 |
-|-------+----------------------------+-----------------------------------------------------------------------------------------------------------------------|
+|  Year | Author                     | Title|
+|-------|----------------------------|-----------------------------------------------------------------------------------------------------------------------|
 |  2019 | Robert Caro                | The Power Broker                                                                                                      |
 |  2019 | Jenny Brown                | Without Apology: The Abortion Struggle Now                                                                            |
 |  2019 | Alfred McCoy               | In the Shadows of the American Century                                                                                |
