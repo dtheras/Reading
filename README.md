@@ -1,5 +1,4 @@
-# Readings
-List of books I've read, post 2016
+Running list of books/essays/papers I've read, post 2016. Not complete.
 
 |  Year | Author                     | Title|
 |-------|----------------------------|-----------------------------------------------------------------------------------------------------------------------|
