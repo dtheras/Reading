@@ -1,23 +1,23 @@
-Running list of books/essays/papers I've read, post 2016. Not complete.
+Running list of books/essays/papers I've read, post 2016. Not exhaustive yet.
 
-|  Year | Author                     | Title|
-|-------|----------------------------|-----------------------------------------------------------------------------------------------------------------------|
-|  2019 | Robert Caro                | The Power Broker                                                                                                      |
-|  2019 | Jenny Brown                | Without Apology: The Abortion Struggle Now|
-|  2019 | Alfred McCoy               | In the Shadows of the American Century|
+|Year|Author|Title|
+|----|------|-----|
+|2019|Robert Caro|The Power Broker|
+|  2019 | Jenny Brown| Without Apology: The Abortion Struggle Now|
+|  2019 | Alfred McCoy| In the Shadows of the American Century|
 |  2019 | James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America|
-|  2019 | Unklesbay                  | Arbitrary Death: A Prosecuters Persepective on the Death Penalty|
-|  2019 | Peter Kropotkin            | Multual Aid: A Factor in Evolution|
-|  2019 | Kenneth M Stampp           | The Peculiar Institution|
-|  2019 | James H. Cone              | The Spirituals and The Blues|
+|  2019 | Unklesbay| Arbitrary Death: A Prosecuters Persepective on the Death Penalty|
+|  2019 | Peter Kropotkin| Multual Aid: A Factor in Evolution|
+|  2019 | Kenneth M Stampp| The Peculiar Institution|
+|  2019 | James H. Cone| The Spirituals and The Blues|
 |  2019 | James H. Cone| The God of the Oppressed|
-|  2019 | Toni Cade Bambara          | Blue Ain't No Mockin Bird|
-|  2019 | Francis Moore Lappe        | Diet for a Small Planet|
-|  2019 | Leon Litwack               | Trouble In Mind|
-|  2019 | Ernst Renan                | What is a Nation|
-|  2019 | Leon Litwack               | How Free is Free?|
-|  2019 | Jonathan Kozol             | Death at and Early Age|
-|  2019 | Kate Evans                 | Red Rosa|
+|  2019 | Toni Cade Bambara| Blue Ain't No Mockin Bird|
+|  2019 | Francis Moore Lappe| Diet for a Small Planet|
+|  2019 | Leon Litwack| Trouble In Mind|
+|  2019 | Ernst Renan| What is a Nation|
+|  2019 | Leon Litwack| How Free is Free?|
+|  2019 | Jonathan Kozol| Death at and Early Age|
+|  2019 | Kate Evans| Red Rosa|
 |  2019 | Richard Slotkin            | Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America|
 |  2018 | Randolf Bourne             | War and the Intellectuals|
 |  2018 | Chris Hedges               | America: The Farwell Tour|
