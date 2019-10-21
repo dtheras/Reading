@@ -1,4 +1,4 @@
-Running list of books/essays/papers I've read, post 2016. Not exhaustive yet.
+Running list of books/essays/papers read, post 2016.
 
 ### Currently Reading 
 |Author|Title|
