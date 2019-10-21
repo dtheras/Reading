@@ -12,10 +12,18 @@ Running list of books/essays/papers I've read, post 2016. Not exhaustive yet.
 | Alfred McCoy| In the Shadows of the American Century|
 | James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America|
 | Unklesbay| Arbitrary Death: A Prosecuters Persepective on the Death Penalty|
+| Gene Nichol | The Faces of Poverty in North Carolina
+| Barbara Olshansky | America's Disappeared: Secret Imprisonment, Detainees, and the War on Terror
+| Mumia Abu-Jamal | Death Blossoms: Reflections from a Prisoner of Conscience
+| Claudia Whitman | Frontiers of Justice: Death Penalty (Book 1)
 | Peter Kropotkin| Multual Aid: A Factor in Evolution|
 | Kenneth M Stampp| The Peculiar Institution|
+| Liane Ellision Norman | Hammer of Justice: Molly Rush and the Plowshares Eight
+| Sarah Chayes | The Punishment of Virtue: Inside Afghanistan After the Taliban
+| Avivia Chomsky | Dying For Growth |
 | James H. Cone| The Spirituals and The Blues|
 | James H. Cone| The God of the Oppressed|
+| Arundhati Roy | War Talk |
 | Peter Dauvergne | Environmentalism of the Rich |
 | Toni Cade Bambara| Blue Ain't No Mockin Bird|
 | Francis Moore Lappe| Diet for a Small Planet|
@@ -30,10 +38,16 @@ Running list of books/essays/papers I've read, post 2016. Not exhaustive yet.
 ### 2018
 |Author|Title|
 |----|------|
+| Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer|
 | Randolf Bourne | War and the Intellectuals|
 | Chris Hedges | America: The Farwell Tour|
 | Jonathan Swift| A Modest Proposal|
+| Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire: Book One (Empire, Genocide, and Manifest Destiny)|
 |Kate Crawford | Anatomy of an AI System|
+| Medicine Sans Frontiers | Humanitarian Negotiations Revealed|
+| Medicine Sans Frontiers | In the Eyes of Others: How People in Crisis Percieve Humanitarian Air|
+| Gareth Piece | Dispatches from the Darkside: On Torture and the Death of Justice|
+| Augustin Souchy | With the Peasants of Aragon|
 |  Didier Lefevre | The Photographer: Into War-torn Afghanistan With Doctors Without Borders|
 | Joe Sacco | Palistine|
 | David Harvey | A View from Deferal Hill|
@@ -43,10 +57,12 @@ Running list of books/essays/papers I've read, post 2016. Not exhaustive yet.
 |Rudolf Rocker | The Tragedy of Spain|
 |Sheldon Wolin | Politics and Vision|
 | Anna Akhmatova | Poem Without a Hero|
+| Andrew Boyn | Beautiful Trouble: A Toolbox for Revolution |
 | James H. Cone | Said I Wasn't Gonna Tell Nobody|
 | Chris Hedges | American Facists: The Christian Right and the War on America|
 | James H. Cone | The Cross and The Lynching Tree|
-| Wikileaks | The WikiLeaks Files: The World According to US Empire
+| Reinhold Niebuhr | Moral Man and Immoral Society|
+| Wikileaks | The WikiLeaks Files: The World According to US Empire|
 |Seymour Hersh | Reporter|
 |Thomas Ferguson            | Industrial Structure and Party Competition in an Age of Hunger Games: Donald Trump and the 2016 Presidential Election |
 |Sheldon Wolin              | Political Theory As a Vocation|
@@ -59,11 +75,16 @@ Running list of books/essays/papers I've read, post 2016. Not exhaustive yet.
 | Harold McKinder            | The Geographical Pivot of History|
 | Joseph Conrad              | An Outpost of Progress|
 | Bertolt Brecht             | The Radio as an Apparatus of Communication| 
+| Smedley Butler |War is a Racket |
 |Chris Hedges               | War is a Force That Gives Us Meaning|
 | Noam Chomsky               | Fate of an Honest Intellectual|
 | Chris Hedges & Joe Sacco   | Days of Destruction, Days of Revolt|
 | Martin Luther King Jr.     | Letter from the Birmingham Jail|
 | Rosa Luxemburg             | Socialism and The Churches|
+| Victor Montejo | Testimony: Death of a Guatemalan Village |
+| Noam Chomsky | 9-11|
+| Carolyn Forche | Against Forgetting: Twentieth Century Poems of Witness|
+| George Orwell | Notes on Nationalism |
 |  C. E. Shannon              | Communication Theory of Secrecy Systems|
 | Neal Stephenson            | In the Beginning was the Command Line|
 | Sam Dolgoff                | The Cuban Revolution A Critical Perspective|
@@ -97,14 +118,17 @@ Running list of books/essays/papers I've read, post 2016. Not exhaustive yet.
 | Dmitri Borgmann| Language on Vacation an Olio of Orthographic Oddities|
 | Richard Feynman| The Pleasure of Finding Things Out|
 | Noam Chomsky | Manufacturing Consent|
+| Rosabeth Moss Kanter | Men and Women of the Coporation|
 | Barbara Demick | Nothing to Envy: Ordinary Lives in North Korea|
 | Soren Kiekegaard | Sickness Unto Death|
 | Simone Weil | The Illiad: or the Poem of Force|
 | Thomas Pynchon | The Crying of Lot 49|
 | Soren Kiekegaard | Fear and Trembling|
 | J. P. Sartre | Being and Nothingness|
+| Kevin Bale | Disposable People|
 | Stephen Hawking | A Brief History of Time
-| J. P. Sartre | Existentialism is a Humanism|
+| J. P. Sartre | Existentialism as a Humanism |
+| Paul Tilich | The Courage To Be|
 | Roger Penrose | The Road to Reality|
 | Chinua Achebe | Things Fall Apart|
 | Shing Tung Yau | The Shape of Inner Space|
