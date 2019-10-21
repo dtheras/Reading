@@ -11,6 +11,7 @@ Running list of books/essays/papers I've read, post 2016. Not exhaustive yet.
 | 2019 | Kenneth M Stampp| The Peculiar Institution|
 | 2019 | James H. Cone| The Spirituals and The Blues|
 | 2019 | James H. Cone| The God of the Oppressed|
+| 2019 | Peter Dauvergne | Environmentalism of the Rich |
 | 2019 | Toni Cade Bambara| Blue Ain't No Mockin Bird|
 | 2019 | Francis Moore Lappe| Diet for a Small Planet|
 | 2019 | Leon Litwack| Trouble In Mind|
