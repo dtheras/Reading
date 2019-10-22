@@ -20,7 +20,7 @@ Running list of books/essays/papers read, post 2016.
 | Kenneth M Stampp| The Peculiar Institution|
 | Liane Ellision Norman | Hammer of Justice: Molly Rush and the Plowshares Eight
 | Sarah Chayes | The Punishment of Virtue: Inside Afghanistan After the Taliban
-| Avivia Chomsky | Dying For Growth |
+| Aviva Chomsky | Dying For Growth |
 | James H. Cone| The Spirituals and The Blues|
 | James H. Cone| The God of the Oppressed|
 | Arundhati Roy | War Talk |
