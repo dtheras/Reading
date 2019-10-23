@@ -3,6 +3,7 @@ Running list of books/essays/papers read, post 2016.
 ### Currently Reading 
 |Author|Title|
 |----|------|
+| Ellen Schrecker | No Ivory Tower|
 |Robert Caro|The Power Broker|
 |Jenny Brown| Without Apology: The Abortion Struggle Now|
 
@@ -14,6 +15,7 @@ Running list of books/essays/papers read, post 2016.
 | Unklesbay| Arbitrary Death: A Prosecuters Persepective on the Death Penalty|
 | Gene Nichol | The Faces of Poverty in North Carolina
 | Barbara Olshansky | America's Disappeared: Secret Imprisonment, Detainees, and the War on Terror
+| Wolfgang Kaleck | Law Versus Power|
 | Mumia Abu-Jamal | Death Blossoms: Reflections from a Prisoner of Conscience
 | Claudia Whitman | Frontiers of Justice: Death Penalty (Book 1)
 | Peter Kropotkin| Multual Aid: A Factor in Evolution|
