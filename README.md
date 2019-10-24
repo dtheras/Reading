@@ -1,4 +1,4 @@
-Running list of books/essays/papers read, post 2016.
+Running list of books/essays/papers read.
 
 ### Currently Reading 
 |Author|Title|
@@ -111,7 +111,7 @@ Running list of books/essays/papers read, post 2016.
 | Thomas Pynchon | The Crying of Lot 49|
 
 
-### <=2016 
+### <=2016 (est.)
 |Author|Title|
 |----|------|
 | Czeslaw Milosz | The Captive Mind |
