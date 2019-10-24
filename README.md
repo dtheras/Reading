@@ -66,9 +66,10 @@ Running list of books/essays/papers read, post 2016.
 | Reinhold Niebuhr | Moral Man and Immoral Society|
 | Wikileaks | The WikiLeaks Files: The World According to US Empire|
 |Seymour Hersh | Reporter|
-|Thomas Ferguson            | Industrial Structure and Party Competition in an Age of Hunger Games: Donald Trump and the 2016 Presidential Election |
+|Thomas Ferguson | Industrial Structure and Party Competition in an Age of Hunger Games: Donald Trump and the 2016 Presidential Election |
+| Simone Weil | The Illiad: or the Poem of Force|
 |Sheldon Wolin              | Political Theory As a Vocation|
-
+|  Thomas Piketty | Capital in the Twenty-First Century |
 
 
 ### 2017
@@ -82,7 +83,6 @@ Running list of books/essays/papers read, post 2016.
 | Noam Chomsky               | Fate of an Honest Intellectual|
 | Chris Hedges & Joe Sacco   | Days of Destruction, Days of Revolt|
 | Martin Luther King Jr.     | Letter from the Birmingham Jail|
-| Rosa Luxemburg             | Socialism and The Churches|
 | Victor Montejo | Testimony: Death of a Guatemalan Village |
 | Noam Chomsky | 9-11|
 | Carolyn Forche | Against Forgetting: Twentieth Century Poems of Witness|
@@ -92,7 +92,6 @@ Running list of books/essays/papers read, post 2016.
 | Sam Dolgoff                | The Cuban Revolution A Critical Perspective|
 | Perry Shelley              | The Masque of Anarchy|
 | China Mieville             | October|
-|  Thomas Piketty | Capital in the Twenty-First Century |
 | Borisov, et. al.           | Off-the-Record Communication or, Why Not To Use PGP|
 | Franz Kafka                | The Castle|
 | AFSC                       | Survival In Solitary: A Manual Written by and for People Living in Control Units|
@@ -108,10 +107,11 @@ Running list of books/essays/papers read, post 2016.
 | Hannah Arendt              | Origins of Totalitairism|
 | Michail Bakunin            | Man, Society, and Freedom|
 |  Niel Postman               | Amusing Ourselves to Death|
-|  Harold Pinter              | Nobel Lecture|
+|  Harold Pinter              | Nobel Lecture Speech|
+| Thomas Pynchon | The Crying of Lot 49|
 
 
-### <=2016
+### <=2016 
 |Author|Title|
 |----|------|
 | Czeslaw Milosz | The Captive Mind |
@@ -123,8 +123,6 @@ Running list of books/essays/papers read, post 2016.
 | Rosabeth Moss Kanter | Men and Women of the Coporation|
 | Barbara Demick | Nothing to Envy: Ordinary Lives in North Korea|
 | Soren Kiekegaard | Sickness Unto Death|
-| Simone Weil | The Illiad: or the Poem of Force|
-| Thomas Pynchon | The Crying of Lot 49|
 | Soren Kiekegaard | Fear and Trembling|
 | J. P. Sartre | Being and Nothingness|
 | Kevin Bale | Disposable People|
