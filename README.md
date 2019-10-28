@@ -1,4 +1,4 @@
-Running list of books/essays/papers read.
+A running list of books/essays/papers.
 
 ### Currently Reading 
 |Author|Title|
@@ -58,6 +58,7 @@ Running list of books/essays/papers read.
 |Joseph Tainter | Collapse of Complex Societies|
 |Rudolf Rocker | The Tragedy of Spain|
 |Sheldon Wolin | Politics and Vision|
+| Sheldon Wolin | Political Theory as a Vocation |
 | Anna Akhmatova | Poem Without a Hero|
 | Andrew Boyn | Beautiful Trouble: A Toolbox for Revolution |
 | James H. Cone | Said I Wasn't Gonna Tell Nobody|
@@ -80,6 +81,7 @@ Running list of books/essays/papers read.
 | Bertolt Brecht             | The Radio as an Apparatus of Communication| 
 | Smedley Butler |War is a Racket |
 |Chris Hedges               | War is a Force That Gives Us Meaning|
+|  Max Weber | Politics as a Vocation |
 | Noam Chomsky               | Fate of an Honest Intellectual|
 | Chris Hedges & Joe Sacco   | Days of Destruction, Days of Revolt|
 | Martin Luther King Jr.     | Letter from the Birmingham Jail|
@@ -98,7 +100,7 @@ Running list of books/essays/papers read.
 | Haley Sweetland Edwards    | Shadow Courts: The Tribunals that Rule Global Trade|
 | Vaclav Havel               | The Power of The Powerless|
 | Naomi Klein                | The Shock Doctrine|
-| Julian Assange | Cypherpunks: Freedom and the Future of the Internet
+| Julian Assange             | Cypherpunks: Freedom and the Future of the Internet
 | Herbert I. Schiller        | Culture, Inc.: The Corporate Takeover of Public Expression|
 | Combahee River Collective  | A Black Feminist Statement|
 | USCCB                      | Confronting A Culture of Violence: A Catholic Framework for Action|
@@ -106,9 +108,9 @@ Running list of books/essays/papers read.
 | Glenn Greenwald            | No Place to Hide|
 | Hannah Arendt              | Origins of Totalitairism|
 | Michail Bakunin            | Man, Society, and Freedom|
-|  Niel Postman               | Amusing Ourselves to Death|
-|  Harold Pinter              | Nobel Lecture Speech|
-| Thomas Pynchon | The Crying of Lot 49|
+|  Niel Postman              | Amusing Ourselves to Death|
+|  Harold Pinter             | Nobel Lecture Speech|
+| Thomas Pynchon             | The Crying of Lot 49|
 
 
 ### <=2016 (est.)
@@ -133,6 +135,7 @@ Running list of books/essays/papers read.
 | Chinua Achebe | Things Fall Apart|
 | Shing Tung Yau | The Shape of Inner Space|
 | Mary Shelley | Frankenstein|
+| Tim O'Brien | The Things They Carried|
 | F Scott Fitzgerald | The Great Gatsby|
 | Ray Bradbury | Fahrenheit 491|
 | Neil Stephenson | Reamde|
