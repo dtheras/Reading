@@ -1,4 +1,4 @@
-A running list of books/essays/papers.
+Running list readings.
 
 ### Currently Reading 
 |Author|Title|
