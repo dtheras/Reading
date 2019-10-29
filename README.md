@@ -3,9 +3,9 @@ A running list of books/essays/papers.
 ### Currently Reading 
 |Author|Title|
 |----|------|
-| Ellen Schrecker | No Ivory Tower|
-|Robert Caro|The Power Broker|
-|Jenny Brown| Without Apology: The Abortion Struggle Now|
+| Ellen Schrecker | No Ivory Tower| Book
+|Robert Caro|The Power Broker| Book
+|Jenny Brown| Without Apology: The Abortion Struggle Now| Book
 
 ### 2019
 |Author|Title|
