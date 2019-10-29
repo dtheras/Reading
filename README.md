@@ -8,10 +8,10 @@ A running list of books/essays/papers.
 |Jenny Brown| Without Apology: The Abortion Struggle Now| Book|
 
 ### 2019
-|Author|Title|
-|----|------|
-| Alfred McCoy| In the Shadows of the American Century|
-| James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America|
+|Author|Title| |
+|----|------|---|
+| Alfred McCoy| In the Shadows of the American Century| Book |
+| James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America| Book
 | Unklesbay| Arbitrary Death: A Prosecuters Persepective on the Death Penalty|
 | Gene Nichol | The Faces of Poverty in North Carolina
 | Barbara Olshansky | America's Disappeared: Secret Imprisonment, Detainees, and the War on Terror
