@@ -60,6 +60,7 @@ A running list of books/essays/papers.
 |Sheldon Wolin | Politics and Vision|
 | Sheldon Wolin | Political Theory as a Vocation |
 | Anna Akhmatova | Poem Without a Hero|
+| Sir John Glubb | The Fate of Empires and Search for Survival
 | Andrew Boyn | Beautiful Trouble: A Toolbox for Revolution |
 | James H. Cone | Said I Wasn't Gonna Tell Nobody|
 | Chris Hedges | American Facists: The Christian Right and the War on America|
@@ -79,9 +80,9 @@ A running list of books/essays/papers.
 | Harold McKinder            | The Geographical Pivot of History|
 | Joseph Conrad              | An Outpost of Progress|
 | Bertolt Brecht             | The Radio as an Apparatus of Communication| 
-| Smedley Butler |War is a Racket |
-|Chris Hedges               | War is a Force That Gives Us Meaning|
-|  Max Weber | Politics as a Vocation |
+| Smedley Butler | War is a Racket |
+| Chris Hedges | War is a Force That Gives Us Meaning |
+| Max Weber | Politics as a Vocation |
 | Noam Chomsky               | Fate of an Honest Intellectual|
 | Chris Hedges & Joe Sacco   | Days of Destruction, Days of Revolt|
 | Martin Luther King Jr.     | Letter from the Birmingham Jail|
@@ -116,7 +117,9 @@ A running list of books/essays/papers.
 ### <=2016 (est.)
 |Author|Title|
 |----|------|
+| Percy Bysshe Shelley | The Masque of Anarchy
 | Czeslaw Milosz | The Captive Mind |
+| John Carey, Editor | Eyewitness to History 
 | Edvard Kocbek | Poems: Microphone on the Wall, Rocket, On Freedom of Minnd|
 | Umberto Eco| UR-Fascism|
 | Dmitri Borgmann| Language on Vacation an Olio of Orthographic Oddities|
