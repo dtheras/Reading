@@ -1,38 +1,38 @@
 A running list of books/essays/papers.
 
 ### Currently Reading 
-|Author|Title| |
-|----|------|----|
-| Ellen Schrecker | No Ivory Tower| Book |
-|Robert Caro|The Power Broker| Book |
-|Jenny Brown| Without Apology: The Abortion Struggle Now| Book|
+|Author|Title|
+|----|------|
+| Ellen Schrecker | No Ivory Tower| 
+|Robert Caro|The Power Broker| 
+|Jenny Brown| Without Apology: The Abortion Struggle Now| 
 
 ### 2019
-|Author|Title| |
-|----|------|---|
-| Alfred McCoy| In the Shadows of the American Century| Book |
-| James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America| Book
-| Unklesbay| Arbitrary Death: A Prosecuters Persepective on the Death Penalty| Book
-| Gene Nichol | The Faces of Poverty in North Carolina | Book
-| Barbara Olshansky | America's Disappeared: Secret Imprisonment, Detainees, and the War on Terror | Book
-| Wolfgang Kaleck | Law Versus Power| Book
-| Mumia Abu-Jamal | Death Blossoms: Reflections from a Prisoner of Conscience | Book
-| Claudia Whitman | Frontiers of Justice: Death Penalty (Book 1) | Book
-| Peter Kropotkin| Multual Aid: A Factor in Evolution| Book
-| Kenneth M Stampp| The Peculiar Institution| Book |
-| Liane Ellision Norman | Hammer of Justice: Molly Rush and the Plowshares Eight | Book
-| Sarah Chayes | The Punishment of Virtue: Inside Afghanistan After the Taliban | Book
-| Aviva Chomsky | Dying For Growth | Book
-| James H. Cone| The Spirituals and The Blues| Book
-| James H. Cone| The God of the Oppressed| Book
-| Arundhati Roy | War Talk | Book
-| Peter Dauvergne | Environmentalism of the Rich | Book
-| Toni Cade Bambara| Blue Ain't No Mockin Bird| Short Story
-| Francis Moore Lappe| Diet for a Small Planet| Book
-| Leon Litwack| Trouble In Mind| Book
-| Ernst Renan| What is a Nation| Essay
-| Leon Litwack| How Free is Free?| Book
-| Jonathan Kozol| Death at and Early Age| Book
+|Author|Title|
+|----|------|
+| Alfred McCoy| In the Shadows of the American Century |
+| James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America| 
+| Unklesbay| Arbitrary Death: A Prosecuters Persepective on the Death Penalty| 
+| Gene Nichol | The Faces of Poverty in North Carolina | 
+| Barbara Olshansky | America's Disappeared: Secret Imprisonment, Detainees, and the War on Terror | 
+| Wolfgang Kaleck | Law Versus Power| 
+| Mumia Abu-Jamal | Death Blossoms: Reflections from a Prisoner of Conscience | 
+| Claudia Whitman | Frontiers of Justice: Death Penalty (Book 1) | 
+| Peter Kropotkin| Multual Aid: A Factor in Evolution| 
+| Kenneth M Stampp| The Peculiar Institution| 
+| Liane Ellision Norman | Hammer of Justice: Molly Rush and the Plowshares Eight | 
+| Sarah Chayes | The Punishment of Virtue: Inside Afghanistan After the Taliban | 
+| Aviva Chomsky | Dying For Growth | 
+| James H. Cone| The Spirituals and The Blues| 
+| James H. Cone| The God of the Oppressed| 
+| Arundhati Roy | War Talk | 
+| Peter Dauvergne | Environmentalism of the Rich | 
+| Toni Cade Bambara| Blue Ain't No Mockin Bird| 
+| Francis Moore Lappe| Diet for a Small Planet| 
+| Leon Litwack| Trouble In Mind| 
+| Ernst Renan| What is a Nation| 
+| Leon Litwack| How Free is Free?| 
+| Jonathan Kozol| Death at and Early Age| 
 | Kate Evans| Red Rosa|
 | Emma Goldman | Anarchism & Other Essays|
 | Richard Slotkin | Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America|
