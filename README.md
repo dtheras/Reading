@@ -2,8 +2,7 @@ Running list readings.
 
 ### Currently Reading 
 |Author|Title|
-|----|------|
-| Ellen Schrecker | No Ivory Tower| 
+|----|------| 
 |Robert Caro|The Power Broker| 
 |Jenny Brown| Without Apology: The Abortion Struggle Now| 
 
@@ -109,36 +108,53 @@ Running list readings.
 | Glenn Greenwald            | No Place to Hide|
 | Hannah Arendt              | Origins of Totalitairism|
 | Michail Bakunin            | Man, Society, and Freedom|
-|  Niel Postman              | Amusing Ourselves to Death|
-|  Harold Pinter             | Nobel Lecture Speech|
+| Niel Postman               | Amusing Ourselves to Death|
+| Harold Pinter              | Nobel Lecture Speech|
 | Thomas Pynchon             | The Crying of Lot 49|
-
+| Leslie Hancock | C. Primer 
+| Leonard Peltier | Prison Writings: My Life Is My Sun Dance
+| Daniel Berrigan | The Kings and Their Gods: The Pathology of Power
+| Ralph Nader | Breaking Through Power: It's Easier Than We Think
+| Alexander L. George | Western State Terrorism
+| La Rochefoucauld | Maxims
+| Michel de Montaigne | Montaigne: Essays
+| Ellen F. Fitzpatrick | Muckraking: Three Landmark Articles
+| Eqbal Ahmad | Terrorism: Theirs and Ours
 
 ### <=2016 (est.)
 |Author|Title|
 |----|------|
-| Percy Bysshe Shelley | The Masque of Anarchy
+| Percy Bysshe Shelley | The Masque of Anarchy |
+| Noam Chomsky | Manufacturing Consent |
 | Czeslaw Milosz | The Captive Mind |
 | John Carey, Editor | Eyewitness to History 
-| Edvard Kocbek | Poems: Microphone on the Wall, Rocket, On Freedom of Minnd|
-| Umberto Eco| UR-Fascism|
-| Dmitri Borgmann| Language on Vacation an Olio of Orthographic Oddities|
-| Richard Feynman| The Pleasure of Finding Things Out|
-| Noam Chomsky | Manufacturing Consent|
-| Rosabeth Moss Kanter | Men and Women of the Coporation|
-| Barbara Demick | Nothing to Envy: Ordinary Lives in North Korea|
-| Soren Kiekegaard | Sickness Unto Death|
-| Soren Kiekegaard | Fear and Trembling|
-| J. P. Sartre | Being and Nothingness|
-| Kevin Bale | Disposable People|
-| Stephen Hawking | A Brief History of Time
+| Edvard Kocbek | Poems: Microphone on the Wall, Rocket, On Freedom of Mind |
+| Umberto Eco| UR-Fascism |
+| Dmitri Borgmann| Language on Vacation an Olio of Orthographic Oddities |
+| Richard Feynman| The Pleasure of Finding Things Out |
+| Rosabeth Moss Kanter | Men and Women of the Coporation |
+| Barbara Demick | Nothing to Envy: Ordinary Lives in North Korea |
+| Soren Kiekegaard | Sickness Unto Death |
+| Soren Kiekegaard | Fear and Trembling |
+| J. P. Sartre | Being and Nothingness |
+| Kevin Bale | Disposable People |
+| Stephen Hawking | A Brief History of Time |
 | J. P. Sartre | Existentialism as a Humanism |
-| Paul Tilich | The Courage To Be|
-| Roger Penrose | The Road to Reality|
-| Chinua Achebe | Things Fall Apart|
-| Shing Tung Yau | The Shape of Inner Space|
-| Mary Shelley | Frankenstein|
-| Tim O'Brien | The Things They Carried|
-| F Scott Fitzgerald | The Great Gatsby|
-| Ray Bradbury | Fahrenheit 491|
-| Neil Stephenson | Reamde|
+| Paul Tilich | The Courage To Be |
+| Roger Penrose | The Road to Reality |
+| Chinua Achebe | Things Fall Apart |
+| Shing Tung Yau | The Shape of Inner Space |
+| Mary Shelley | Frankenstein |
+| Tim O'Brien | The Things They Carried |
+| F Scott Fitzgerald | The Great Gatsby |
+| Ray Bradbury | Fahrenheit 491 |
+| Neil Stephenson | Reamde |
+| Bryan O'Sullivan | Real World Haskell |
+| Kees Doets | The Haskell Road to Logic, Maths and Programming |
+| Magnus Nilsson | Nordic: A Photographic Essay of Landscapes, Food and People |
+| Magnus Nilsson | Faviken |
+| Elaine Dundy | The Dud Avocado |
+| Miran Lipovaca | Learn You a Haskell for Great Good: A Beginner's Guide |
+| Joe Newton | Coaching Cross Country Successfully |
+| Richard Crane | Running the Himalayas |
+
