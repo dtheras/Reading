@@ -3,9 +3,12 @@ Running list book I'm reading.
 ### Currently Reading 
 |Author|Title|
 |----|------| 
-|Jenny Brown | Without Apology: The Abortion Struggle Now |
+| Khalil Gibran | The Prophet |
+| Khalil Gibran | The Garden of the Prophet |
+| Jenny Brown | Without Apology: The Abortion Struggle Now |
 | War With The Newts |  Karel Čapek |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
+| Jean Paul Marat | The Chains of Slavery |
 
 ### 2019
 |Author|Title|
@@ -27,6 +30,7 @@ Running list book I'm reading.
 | James H. Cone| The Spirituals and The Blues| 
 | James H. Cone| The God of the Oppressed| 
 | Arundhati Roy | War Talk | 
+| Edvard Kocbek | Various Poems (Rocket, Mircophone in the Wall, etc) |
 | Peter Dauvergne | Environmentalism of the Rich | 
 | Toni Cade Bambara| Blue Ain't No Mockin Bird| 
 | Francis Moore Lappe| Diet for a Small Planet| 
@@ -56,9 +60,9 @@ Running list book I'm reading.
 | David Harvey | A View from Deferal Hill|
 | Gustave Flaubert | Madame Bovary|
 | Anna Akhmatova | Requiem|
-|Joseph Tainter | Collapse of Complex Societies|
-|Rudolf Rocker | The Tragedy of Spain|
-|Sheldon Wolin | Politics and Vision|
+| Joseph Tainter | Collapse of Complex Societies|
+| Rudolf Rocker | The Tragedy of Spain |
+| Sheldon Wolin | Politics and Vision |
 | Sheldon Wolin | Political Theory as a Vocation |
 | Anna Akhmatova | Poem Without a Hero|
 | Sir John Glubb | The Fate of Empires and Search for Survival
@@ -94,7 +98,7 @@ Running list book I'm reading.
 |  C. E. Shannon              | Communication Theory of Secrecy Systems|
 | Neal Stephenson            | In the Beginning was the Command Line|
 | Sam Dolgoff                | The Cuban Revolution A Critical Perspective|
-| Perry Shelley              | The Masque of Anarchy|
+| Percy Bysshe Shelley              | The Masque of Anarchy|
 | China Mieville             | October|
 | Borisov, et. al.           | Off-the-Record Communication or, Why Not To Use PGP|
 | Franz Kafka                | The Castle|
@@ -136,6 +140,7 @@ Running list book I'm reading.
 | Richard Feynman| The Pleasure of Finding Things Out |
 | Rosabeth Moss Kanter | Men and Women of the Coporation |
 | Barbara Demick | Nothing to Envy: Ordinary Lives in North Korea |
+| Andrzej Sapkowski | The Witcher: The Last Wish | 
 | Soren Kiekegaard | Sickness Unto Death |
 | Soren Kiekegaard | Fear and Trembling |
 | J. P. Sartre | Being and Nothingness |
