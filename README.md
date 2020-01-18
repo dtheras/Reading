@@ -1,9 +1,11 @@
-Running list readings.
+Running list book I'm reading.
 
 ### Currently Reading 
 |Author|Title|
 |----|------| 
-|Jenny Brown| Without Apology: The Abortion Struggle Now| 
+|Jenny Brown | Without Apology: The Abortion Struggle Now |
+| War With The Newts |  Karel Čapek |
+| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
 
 ### 2019
 |Author|Title|
@@ -153,6 +155,8 @@ Running list readings.
 | Kees Doets | The Haskell Road to Logic, Maths and Programming |
 | Magnus Nilsson | Nordic: A Photographic Essay of Landscapes, Food and People |
 | Magnus Nilsson | Faviken |
+| Michael Collins | Hot lights: Cold Steel |
+| Atul Gwande | The Checklist Manifesto |
 | Elaine Dundy | The Dud Avocado |
 | Miran Lipovaca | Learn You a Haskell for Great Good: A Beginner's Guide |
 | Joe Newton | Coaching Cross Country Successfully |
