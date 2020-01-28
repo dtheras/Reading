@@ -21,7 +21,7 @@ Running list book I'm reading.
 | Robert Caro | The Power Broker: Robert Moses and the Fall of New York| 
 | Alfred McCoy | In the Shadows of the American Century |
 | James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America | 
-| Unklesbay | Arbitrary Death: A Prosecuters Persepective on the Death Penalty | 
+| Rick Unklesbay | Arbitrary Death: A Prosecuters Persepective on the Death Penalty | 
 | Gene Nichol | The Faces of Poverty in North Carolina | 
 | Barbara Olshansky | America's Disappeared: Secret Imprisonment, Detainees, and the War on Terror | 
 | Wolfgang Kaleck | Law Versus Power| 
