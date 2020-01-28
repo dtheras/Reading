@@ -6,14 +6,19 @@ Running list book I'm reading.
 | Khalil Gibran | The Prophet |
 | Khalil Gibran | The Garden of the Prophet |
 | Jenny Brown | Without Apology: The Abortion Struggle Now |
-| War With The Newts |  Karel Čapek |
+|  Karel Čapek | War With The Newts |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
 | Jean Paul Marat | The Chains of Slavery |
+
+### 2020
+|Author|Title|
+|----|------|
+| Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions |
 
 ### 2019
 |Author|Title|
 |----|------|
-| Robert Caro| The Power Broker: Robert Moses and the Fall of New York| 
+| Robert Caro | The Power Broker: Robert Moses and the Fall of New York| 
 | Alfred McCoy | In the Shadows of the American Century |
 | James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America | 
 | Unklesbay | Arbitrary Death: A Prosecuters Persepective on the Death Penalty | 
