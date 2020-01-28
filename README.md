@@ -1,4 +1,4 @@
-Running list book I'm reading.
+Running list book I'm reading. Studying maths as well as for the LSAT so its reading is getting backlogged. 
 
 ### Currently Reading 
 |Author|Title|
@@ -9,11 +9,15 @@ Running list book I'm reading.
 |  Karel Čapek | War With The Newts |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
 | Jean Paul Marat | The Chains of Slavery |
+| Susan George | The Debt Boomerang |
+| Joe Sacco | Palestine |
 
 ### 2020
 |Author|Title|
 |----|------|
 | Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions |
+| Paulo Freire | Cultural Action for Freedom |
+| Lapham's Quarterlys | Volume XIII: Memory |
 
 ### 2019
 |Author|Title|
@@ -27,7 +31,8 @@ Running list book I'm reading.
 | Wolfgang Kaleck | Law Versus Power| 
 | Mumia Abu-Jamal | Death Blossoms: Reflections from a Prisoner of Conscience | 
 | Claudia Whitman | Frontiers of Justice: Death Penalty (Book 1) | 
-| Peter Kropotkin| Multual Aid: A Factor in Evolution| 
+| Peter Kropotkin| Mutual Aid: A Factor in Evolution| 
+| Lapham's Quarterlys | Volume XII: Climate, Happiness, Trade, Night |
 | Kenneth M Stampp| The Peculiar Institution| 
 | Liane Ellision Norman | Hammer of Justice: Molly Rush and the Plowshares Eight | 
 | Sarah Chayes | The Punishment of Virtue: Inside Afghanistan After the Taliban | 
@@ -55,7 +60,8 @@ Running list book I'm reading.
 | Chris Hedges | America: The Farwell Tour|
 | Jonathan Swift| A Modest Proposal|
 | Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire: Book One (Empire, Genocide, and Manifest Destiny)|
-|Kate Crawford | Anatomy of an AI System|
+| Kate Crawford | Anatomy of an AI System |
+| Lapham's Quarterlys | Volume XI: Rule of Law, Rivalry and Feud, Water, States of Mind |
 | Medicine Sans Frontiers | Humanitarian Negotiations Revealed|
 | Medicine Sans Frontiers | In the Eyes of Others: How People in Crisis Percieve Humanitarian Air|
 | Gareth Piece | Dispatches from the Darkside: On Torture and the Death of Justice|
@@ -93,6 +99,7 @@ Running list book I'm reading.
 | Smedley Butler | War is a Racket |
 | Chris Hedges | War is a Force That Gives Us Meaning |
 | Max Weber | Politics as a Vocation |
+| Lapham's Quarterly | Volume X: Music, Fear, Discovery, Home |
 | Noam Chomsky               | Fate of an Honest Intellectual|
 | Chris Hedges & Joe Sacco   | Days of Destruction, Days of Revolt|
 | Martin Luther King Jr.     | Letter from the Birmingham Jail|
