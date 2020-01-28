@@ -1,4 +1,4 @@
-Running list book I'm reading. Studying maths as well as for the LSAT so its reading is getting backlogged. 
+Running list book I'm reading.
 
 ### Currently Reading 
 |Author|Title|
