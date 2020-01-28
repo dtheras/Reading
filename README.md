@@ -47,7 +47,7 @@ Running list book I'm reading. Studying maths as well as for the LSAT so its rea
 | Leon Litwack| Trouble In Mind| 
 | Ernst Renan| What is a Nation| 
 | Leon Litwack| How Free is Free?| 
-| Jonathan Kozol| Death at and Early Age| 
+| Jonathan Kozol| Death at an Early Age| 
 | Kate Evans| Red Rosa|
 | Emma Goldman | Anarchism & Other Essays|
 | Richard Slotkin | Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America|
