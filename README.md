@@ -3,6 +3,7 @@ Running list book I'm reading.
 ### Currently Reading 
 |Author|Title|
 |----|------| 
+| Robert Caro | The Years of Lyndon Johnson (I. The Path to Power) |
 | Khalil Gibran | The Prophet |
 | Khalil Gibran | The Garden of the Prophet |
 | Jenny Brown | Without Apology: The Abortion Struggle Now |
