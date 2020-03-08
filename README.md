@@ -3,11 +3,11 @@ Running list book I'm reading.
 ### Currently Reading 
 |Author|Title|
 |----|------| 
-| Robert Caro | The Years of Lyndon Johnson (I. The Path to Power) |
+| Robert Caro | The Years of Lyndon Johnson: The Path to Power (I) |
 | Khalil Gibran | The Prophet |
 | Khalil Gibran | The Garden of the Prophet |
 | Jenny Brown | Without Apology: The Abortion Struggle Now |
-|  Karel Čapek | War With The Newts |
+| Karel Čapek | War With The Newts |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
 | Jean Paul Marat | The Chains of Slavery |
 | Susan George | The Debt Boomerang |
@@ -16,6 +16,9 @@ Running list book I'm reading.
 ### 2020
 |Author|Title|
 |----|------|
+| Gene Nichol | Indecent Assembly: The North Carolina Legislature's Blueprint for the War on Democracy and Equality | 
+| Paul Farmer | The Uses of Haiti |
+| Margaret Kimberley | Prejudential: Black America and the Presidents |
 | Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions |
 | Paulo Freire | Cultural Action for Freedom |
 | Lapham's Quarterlys | Volume XIII: Memory |
