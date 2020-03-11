@@ -1,5 +1,3 @@
-Running list book I'm reading.
-
 ### Currently Reading 
 |Author|Title|
 |----|------| 
