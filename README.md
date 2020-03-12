@@ -12,7 +12,7 @@
 ### 2020
 |Author|Title|
 |----|------|
-| N.J. Prison Theater Cooperative | Caged |
+| N.J. Prison Theater Cooperative | Caged: A Play |
 | Gene Nichol | Indecent Assembly: The North Carolina Legislature's Blueprint for the War on Democracy and Equality | 
 | Paul Farmer | The Uses of Haiti |
 | Margaret Kimberley | Prejudential: Black America and the Presidents |
@@ -60,7 +60,7 @@
 | Randolf Bourne | War and the Intellectuals|
 | Chris Hedges | America: The Farwell Tour|
 | Jonathan Swift| A Modest Proposal|
-| Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire: Book One (Empire, Genocide, and Manifest Destiny)|
+| Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire (Book One: Empire, Genocide, and Manifest Destiny)|
 | Kate Crawford | Anatomy of an AI System |
 | Lapham's Quarterlys | Volume XI: Rule of Law, Rivalry and Feud, Water, States of Mind |
 | Medicine Sans Frontiers | Humanitarian Negotiations Revealed|
