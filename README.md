@@ -7,7 +7,7 @@
 | Karel Čapek | War With The Newts |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
 | Susan George | The Debt Boomerang |
-| Robert Caro | The Years of Lyndon Johnson: The Path to Power (I) |
+| Robert Caro | The Years of Lyndon Johnson: The Path to Power (Book I) |
 
 ### 2020
 |Author|Title|
