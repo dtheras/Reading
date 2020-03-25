@@ -27,7 +27,7 @@
 | Robert Caro | The Power Broker: Robert Moses and the Fall of New York| 
 | Alfred McCoy | In the Shadows of the American Century |
 | James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America | 
-| Rick Unklesbay | Arbitrary Death: A Prosecuters Persepective on the Death Penalty | 
+| Rick Unklesbay | Arbitrary Death: A Prosecutor's Perspective on the Death Penalty | 
 | Gene Nichol | The Faces of Poverty in North Carolina | 
 | Barbara Olshansky | America's Disappeared: Secret Imprisonment, Detainees, and the War on Terror | 
 | Wolfgang Kaleck | Law Versus Power| 
@@ -35,14 +35,14 @@
 | Claudia Whitman | Frontiers of Justice: Death Penalty (Book 1) | 
 | Peter Kropotkin| Mutual Aid: A Factor in Evolution| 
 | Lapham's Quarterly | Volume XII: Climate, Happiness, Trade, Night |
-| Kenneth M Stampp| The Peculiar Institution| 
+| Kenneth M Stampp | The Peculiar Institution| 
 | Liane Ellision Norman | Hammer of Justice: Molly Rush and the Plowshares Eight | 
 | Sarah Chayes | The Punishment of Virtue: Inside Afghanistan After the Taliban | 
 | Aviva Chomsky | Dying For Growth | 
 | James H. Cone| The Spirituals and The Blues| 
 | James H. Cone| The God of the Oppressed| 
 | Arundhati Roy | War Talk | 
-| Edvard Kocbek | Various Poems (Rocket, Mircophone in the Wall, etc) |
+| Edvard Kocbek | Various Poems (Rocket, Microphone in the Wall, etc) |
 | Peter Dauvergne | Environmentalism of the Rich | 
 | Toni Cade Bambara| Blue Ain't No Mockin Bird| 
 | Francis Moore Lappe| Diet for a Small Planet| 
@@ -65,12 +65,12 @@
 | Kate Crawford | Anatomy of an AI System |
 | Lapham's Quarterly | Volume XI: Rule of Law, Rivalry and Feud, Water, States of Mind |
 | Medicine Sans Frontiers | Humanitarian Negotiations Revealed|
-| Medicine Sans Frontiers | In the Eyes of Others: How People in Crisis Percieve Humanitarian Air|
+| Medicine Sans Frontiers | In the Eyes of Others: How People in Crisis Perceive Humanitarian Air|
 | Gareth Piece | Dispatches from the Darkside: On Torture and the Death of Justice|
 | Augustin Souchy | With the Peasants of Aragon|
 |  Didier Lefevre | The Photographer: Into War-torn Afghanistan With Doctors Without Borders|
 | Joe Sacco | Palistine|
-| David Harvey | A View from Deferal Hill|
+| David Harvey | A View from Federal Hill|
 | Gustave Flaubert | Madame Bovary|
 | Anna Akhmatova | Requiem|
 | Joseph Tainter | Collapse of Complex Societies|
@@ -81,7 +81,7 @@
 | Sir John Glubb | The Fate of Empires and Search for Survival
 | Andrew Boyn | Beautiful Trouble: A Toolbox for Revolution |
 | James H. Cone | Said I Wasn't Gonna Tell Nobody|
-| Chris Hedges | American Facists: The Christian Right and the War on America|
+| Chris Hedges | American Fascists: The Christian Right and the War on America|
 | James H. Cone | The Cross and The Lynching Tree|
 | Reinhold Niebuhr | Moral Man and Immoral Society|
 | Wikileaks | The WikiLeaks Files: The World According to US Empire|
@@ -126,9 +126,9 @@
 | USCCB                      | Confronting A Culture of Violence: A Catholic Framework for Action|
 | Aleksandr Solzhenitsyn     | The Exhausted West|
 | Glenn Greenwald            | No Place to Hide|
-| Hannah Arendt              | Origins of Totalitairism|
-| Michail Bakunin            | Man, Society, and Freedom|
-| Niel Postman               | Amusing Ourselves to Death|
+| Hannah Arendt              | Origins of Totalitarianism |
+| Michail Bakunin            | Man, Society, and Freedom |
+| Niel Postman               | Amusing Ourselves to Death |
 | Harold Pinter              | Nobel Lecture Speech|
 | Thomas Pynchon             | The Crying of Lot 49|
 | Leslie Hancock | C. Primer 
@@ -152,10 +152,16 @@
 | Umberto Eco| UR-Fascism |
 | Dmitri Borgmann| Language on Vacation an Olio of Orthographic Oddities |
 | Richard Feynman| The Pleasure of Finding Things Out |
-| Rosabeth Moss Kanter | Men and Women of the Coporation |
+| Rosabeth Moss Kanter | Men and Women of the Corporation |
 | Barbara Demick | Nothing to Envy: Ordinary Lives in North Korea |
 | Andrzej Sapkowski | The Witcher: The Last Wish | 
 | Soren Kiekegaard | Sickness Unto Death |
+| Lapham's Quarterly | Volume IX, Number 4 Flesh | 
+| Lapham's Quarterly | Volume IX, Number 3 Luck | 
+| Lapham's Quarterly | Volume IX, Number 2 Disaster | 
+| Lapham's Quarterly | Volume IX, Number 1 Spies | 
+| Lapham's Quarterly | Volume VII, Number 4 Philanthropy | 
+| Lapham's Quarterly | Volume VII, Number 3 Fashion | 
 | Soren Kiekegaard | Fear and Trembling |
 | J. P. Sartre | Being and Nothingness |
 | Kevin Bale | Disposable People |
