@@ -12,13 +12,14 @@
 ### 2020
 |Author|Title|
 |----|------|
+| Lapham's Quarterly | Volume XIII, Number 2: Scandal | 
 | N.J. Prison Theater Cooperative | Caged: A Play |
 | Gene Nichol | Indecent Assembly: The North Carolina Legislature's Blueprint for the War on Democracy and Equality | 
 | Paul Farmer | The Uses of Haiti |
 | Margaret Kimberley | Prejudential: Black America and the Presidents |
 | Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions |
 | Paulo Freire | Cultural Action for Freedom |
-| Lapham's Quarterlys | Volume XIII: Memory |
+| Lapham's Quarterly | Volume XIII, Number 1: Memory |
 
 ### 2019
 |Author|Title|
@@ -33,7 +34,7 @@
 | Mumia Abu-Jamal | Death Blossoms: Reflections from a Prisoner of Conscience | 
 | Claudia Whitman | Frontiers of Justice: Death Penalty (Book 1) | 
 | Peter Kropotkin| Mutual Aid: A Factor in Evolution| 
-| Lapham's Quarterlys | Volume XII: Climate, Happiness, Trade, Night |
+| Lapham's Quarterly | Volume XII: Climate, Happiness, Trade, Night |
 | Kenneth M Stampp| The Peculiar Institution| 
 | Liane Ellision Norman | Hammer of Justice: Molly Rush and the Plowshares Eight | 
 | Sarah Chayes | The Punishment of Virtue: Inside Afghanistan After the Taliban | 
@@ -62,7 +63,7 @@
 | Jonathan Swift| A Modest Proposal|
 | Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire (Book One: Empire, Genocide, and Manifest Destiny)|
 | Kate Crawford | Anatomy of an AI System |
-| Lapham's Quarterlys | Volume XI: Rule of Law, Rivalry and Feud, Water, States of Mind |
+| Lapham's Quarterly | Volume XI: Rule of Law, Rivalry and Feud, Water, States of Mind |
 | Medicine Sans Frontiers | Humanitarian Negotiations Revealed|
 | Medicine Sans Frontiers | In the Eyes of Others: How People in Crisis Percieve Humanitarian Air|
 | Gareth Piece | Dispatches from the Darkside: On Torture and the Death of Justice|
