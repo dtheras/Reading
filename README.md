@@ -1,8 +1,6 @@
 ### Currently Reading 
 |Author|Title|
 |----|------| 
-| Khalil Gibran | The Prophet |
-| Khalil Gibran | The Garden of the Prophet |
 | Jenny Brown | Without Apology: The Abortion Struggle Now |
 | Karel Čapek | War With The Newts |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
@@ -12,6 +10,8 @@
 ### 2020
 |Author|Title|
 |----|------|
+| Khalil Gibran | The Prophet |
+| Khalil Gibran | The Garden of the Prophet |
 | Lapham's Quarterly | Volume XIII, Number 2: Scandal | 
 | N.J. Prison Theater Cooperative | Caged: A Play |
 | Gene Nichol | Indecent Assembly: The North Carolina Legislature's Blueprint for the War on Democracy and Equality | 
