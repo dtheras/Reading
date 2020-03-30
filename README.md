@@ -5,11 +5,11 @@
 | Karel Čapek | War With The Newts |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
 | Susan George | The Debt Boomerang |
-| Robert Caro | The Years of Lyndon Johnson: The Path to Power (Book I) |
 
 ### 2020
 |Author|Title|
 |----|------|
+| Robert Caro | The Years of Lyndon Johnson: The Path to Power (Book I) |
 | Khalil Gibran | The Prophet |
 | Khalil Gibran | The Garden of the Prophet |
 | Lapham's Quarterly | Volume XIII, Number 2: Scandal | 
