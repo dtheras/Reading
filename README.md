@@ -9,6 +9,7 @@
 ### 2020
 |Author|Title|
 |----|------|
+| Joe Sacco | Palestine | 
 | Robert Caro | The Years of Lyndon Johnson: The Path to Power (Book I) |
 | Khalil Gibran | The Prophet |
 | Khalil Gibran | The Garden of the Prophet |
