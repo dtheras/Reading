@@ -9,6 +9,7 @@
 ### 2020
 |Author|Title|
 |----|------|
+| Leon Litwack | North of Slavery |
 | Joe Sacco | Palestine | 
 | Robert Caro | The Years of Lyndon Johnson: The Path to Power (Book I) |
 | Khalil Gibran | The Prophet |
