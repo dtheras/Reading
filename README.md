@@ -9,6 +9,7 @@
 ### 2020
 |Author|Title|
 |----|------|
+| Rev. Nelson Johnson, Emily Mann | Greensboro: A Requiem | 
 | Leon Litwack | North of Slavery |
 | Joe Sacco | Palestine | 
 | Robert Caro | The Years of Lyndon Johnson: The Path to Power (Book I) |
