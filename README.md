@@ -9,6 +9,7 @@
 ### 2020
 |Author|Title|
 |----|------|
+| Matt Taibbi | Spank The Donkey |
 | Rev. Nelson Johnson, Emily Mann | Greensboro: A Requiem | 
 | Leon Litwack | North of Slavery |
 | Joe Sacco | Palestine | 
@@ -110,18 +111,18 @@
 | Martin Luther King Jr.     | Letter from the Birmingham Jail|
 | Victor Montejo | Testimony: Death of a Guatemalan Village |
 | Noam Chomsky | 9-11|
-| Carolyn Forche | Against Forgetting: Twentieth Century Poems of Witness|
+| Carolyn Forche | Against Forgetting: Twentieth Century Poems of Witness |
 | George Orwell | Notes on Nationalism |
-|  C. E. Shannon              | Communication Theory of Secrecy Systems|
-| Neal Stephenson            | In the Beginning was the Command Line|
-| Sam Dolgoff                | The Cuban Revolution A Critical Perspective|
-| Percy Bysshe Shelley              | The Masque of Anarchy|
+|  C. E. Shannon              | Communication Theory of Secrecy Systems |
+| Neal Stephenson            | In the Beginning was the Command Line |
+| Sam Dolgoff                | The Cuban Revolution A Critical Perspective |
+| Percy Bysshe Shelley              | The Masque of Anarchy |
 | China Mieville             | October|
-| Borisov, et. al.           | Off-the-Record Communication or, Why Not To Use PGP|
-| Franz Kafka                | The Castle|
-| AFSC                       | Survival In Solitary: A Manual Written by and for People Living in Control Units|
-| Haley Sweetland Edwards    | Shadow Courts: The Tribunals that Rule Global Trade|
-| Vaclav Havel               | The Power of The Powerless|
+| Borisov, et. al.           | Off-the-Record Communication or, Why Not To Use PGP |
+| Franz Kafka                | The Castle |
+| AFSC                       | Survival In Solitary: A Manual Written by and for People Living in Control Units |
+| Haley Sweetland Edwards    | Shadow Courts: The Tribunals that Rule Global Trade |
+| Vaclav Havel               | The Power of The Powerless |
 | Naomi Klein                | The Shock Doctrine|
 | Julian Assange             | Cypherpunks: Freedom and the Future of the Internet
 | Herbert I. Schiller        | Culture, Inc.: The Corporate Takeover of Public Expression|
