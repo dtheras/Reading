@@ -1,7 +1,7 @@
 ### Currently Reading 
 |Author|Title|
 |----|------| 
-| Jenny Brown | Without Apology: The Abortion Struggle Now |
+| Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |
 | Karel Čapek | War With The Newts |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
 | Susan George | The Debt Boomerang |
@@ -9,6 +9,7 @@
 ### 2020
 |Author|Title|
 |----|------|
+| Jenny Brown | Without Apology: The Abortion Struggle Now |
 | Matt Taibbi | Spank The Donkey: Dispatches from the Dumb Season |
 | Rev. Nelson Johnson, Emily Mann | Greensboro: A Requiem | 
 | Leon Litwack | North of Slavery |
