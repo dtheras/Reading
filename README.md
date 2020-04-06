@@ -9,7 +9,7 @@
 ### 2020
 |Author|Title|
 |----|------|
-| Matt Taibbi | Spank The Donkey |
+| Matt Taibbi | Spank The Donkey: Dispatches from the Dumb Season |
 | Rev. Nelson Johnson, Emily Mann | Greensboro: A Requiem | 
 | Leon Litwack | North of Slavery |
 | Joe Sacco | Palestine | 
