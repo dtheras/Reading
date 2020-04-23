@@ -1,6 +1,8 @@
 ### Currently Reading 
 |Author|Title|
 |----|------| 
+| Howard Zinn |  Vietnam: The Logic of Withdrawal |
+| Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |
 | Karel Čapek | War With The Newts |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
