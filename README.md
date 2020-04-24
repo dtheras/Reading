@@ -11,6 +11,7 @@
 ### 2020
 |Author|Title|
 |----|------|
+| Daniel Leader | Living Bread |
 | Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars: The Untold Story |
 | Jenny Brown | Without Apology: The Abortion Struggle Now |
 | Matt Taibbi | Spank The Donkey: Dispatches from the Dumb Season |
