@@ -1,199 +1,175 @@
-## Currently Reading 
-|Author|Title|
-|----|------| 
-| Sarah Chayes | Theives of State: Why Corruption Threatens Global Security |
-| Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery |
-| Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |
-| Karel Čapek | War With The Newts |
-| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
-| Susan George | The Debt Boomerang |
-
-## 2020
-|Author|Title|
-|----|------|
-| Howard Zinn |  Vietnam: The Logic of Withdrawal |
-| Daniel Leader | Living Bread |
-| Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars: The Untold Story |
-| Jenny Brown | Without Apology: The Abortion Struggle Now |
-| Matt Taibbi | Spank The Donkey: Dispatches from the Dumb Season |
-| Rev. Nelson Johnson, Emily Mann | Greensboro: A Requiem | 
-| Leon Litwack | North of Slavery |
-| Joe Sacco | Palestine | 
-| Robert Caro | The Years of Lyndon Johnson: The Path to Power (Book I) |
-| Khalil Gibran | The Prophet |
-| Khalil Gibran | The Garden of the Prophet |
-| Lapham's Quarterly | Volume XIII, Number 2: Scandal | 
-| N.J. Prison Theater Cooperative | Caged: A Play |
-| Gene Nichol | Indecent Assembly: The North Carolina Legislature's Blueprint for the War on Democracy and Equality | 
-| Paul Farmer | The Uses of Haiti |
-| Margaret Kimberley | Prejudential: Black America and the Presidents |
-| Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions |
-| Paulo Freire | Cultural Action for Freedom |
-| Lapham's Quarterly | Volume XIII, Number 1: Memory |
-
-## 2019
-|Author|Title|
-|----|------|
-| Robert Caro | The Power Broker: Robert Moses and the Fall of New York| 
-| Alfred McCoy | In the Shadows of the American Century |
-| James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America | 
-| Rick Unklesbay | Arbitrary Death: A Prosecutor's Perspective on the Death Penalty | 
-| Gene Nichol | The Faces of Poverty in North Carolina | 
-| Barbara Olshansky | America's Disappeared: Secret Imprisonment, Detainees, and the War on Terror | 
-| Wolfgang Kaleck | Law Versus Power| 
-| Mumia Abu-Jamal | Death Blossoms: Reflections from a Prisoner of Conscience | 
-| Claudia Whitman | Frontiers of Justice: Death Penalty (Book 1) | 
-| Peter Kropotkin| Mutual Aid: A Factor in Evolution| 
-| Lapham's Quarterly | Volume XII: Climate, Happiness, Trade, Night |
-| Kenneth M Stampp | The Peculiar Institution| 
-| Liane Ellision Norman | Hammer of Justice: Molly Rush and the Plowshares Eight | 
-| Sarah Chayes | The Punishment of Virtue: Inside Afghanistan After the Taliban | 
-| Aviva Chomsky | Dying For Growth | 
-| James H. Cone| The Spirituals and The Blues| 
-| James H. Cone| The God of the Oppressed| 
-| Arundhati Roy | War Talk | 
-| Edvard Kocbek | Various Poems (Rocket, Microphone in the Wall, etc) |
-| Peter Dauvergne | Environmentalism of the Rich | 
-| Toni Cade Bambara| Blue Ain't No Mockin Bird| 
-| Francis Moore Lappe| Diet for a Small Planet| 
-| Leon Litwack| Trouble In Mind| 
-| Ernst Renan| What is a Nation| 
-| Leon Litwack| How Free is Free?| 
-| Jonathan Kozol| Death at an Early Age| 
-| Kate Evans| Red Rosa|
-| Emma Goldman | Anarchism & Other Essays|
-| Richard Slotkin | Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America|
-
-## 2018
-|Author|Title|
-|----|------|
-| Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer|
-| Randolf Bourne | War and the Intellectuals|
-| Chris Hedges | America: The Farwell Tour|
-| Jonathan Swift| A Modest Proposal|
-| Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire (Book One: Empire, Genocide, and Manifest Destiny)|
-| Kate Crawford | Anatomy of an AI System |
-| Lapham's Quarterly | Volume XI: Rule of Law, Rivalry and Feud, Water, States of Mind |
-| Medicine Sans Frontiers | Humanitarian Negotiations Revealed|
-| Medicine Sans Frontiers | In the Eyes of Others: How People in Crisis Perceive Humanitarian Air|
-| Gareth Piece | Dispatches from the Darkside: On Torture and the Death of Justice|
-| Augustin Souchy | With the Peasants of Aragon|
-|  Didier Lefevre | The Photographer: Into War-torn Afghanistan With Doctors Without Borders|
-| Joe Sacco | Palistine|
-| David Harvey | A View from Federal Hill|
-| Gustave Flaubert | Madame Bovary|
-| Anna Akhmatova | Requiem|
-| Joseph Tainter | Collapse of Complex Societies|
-| Rudolf Rocker | The Tragedy of Spain |
-| Sheldon Wolin | Politics and Vision |
-| Sheldon Wolin | Political Theory as a Vocation |
-| Anna Akhmatova | Poem Without a Hero|
-| Sir John Glubb | The Fate of Empires and Search for Survival
-| Andrew Boyn | Beautiful Trouble: A Toolbox for Revolution |
-| James H. Cone | Said I Wasn't Gonna Tell Nobody|
-| Chris Hedges | American Fascists: The Christian Right and the War on America|
-| James H. Cone | The Cross and The Lynching Tree|
-| Reinhold Niebuhr | Moral Man and Immoral Society|
-| Wikileaks | The WikiLeaks Files: The World According to US Empire|
-|Seymour Hersh | Reporter|
-|Thomas Ferguson | Industrial Structure and Party Competition in an Age of Hunger Games: Donald Trump and the 2016 Presidential Election |
-| Simone Weil | The Illiad: or the Poem of Force|
-|Sheldon Wolin              | Political Theory As a Vocation|
-|  Thomas Piketty | Capital in the Twenty-First Century |
-
-
-## 2017
-|Author|Title|
-|----|------|
-| Harold McKinder            | The Geographical Pivot of History|
-| Joseph Conrad              | An Outpost of Progress|
-| Bertolt Brecht             | The Radio as an Apparatus of Communication| 
-| Smedley Butler | War is a Racket |
-| Chris Hedges | War is a Force That Gives Us Meaning |
-| Max Weber | Politics as a Vocation |
-| Lapham's Quarterly | Volume X: Music, Fear, Discovery, Home |
-| Noam Chomsky               | Fate of an Honest Intellectual|
-| Chris Hedges & Joe Sacco   | Days of Destruction, Days of Revolt|
-| Martin Luther King Jr.     | Letter from the Birmingham Jail|
-| Victor Montejo | Testimony: Death of a Guatemalan Village |
-| Noam Chomsky | 9-11|
-| Carolyn Forche | Against Forgetting: Twentieth Century Poems of Witness |
-| George Orwell | Notes on Nationalism |
-|  C. E. Shannon              | Communication Theory of Secrecy Systems |
-| Neal Stephenson            | In the Beginning was the Command Line |
-| Sam Dolgoff                | The Cuban Revolution A Critical Perspective |
-| Percy Bysshe Shelley              | The Masque of Anarchy |
-| China Mieville             | October|
-| Borisov, et. al.           | Off-the-Record Communication or, Why Not To Use PGP |
-| Franz Kafka                | The Castle |
-| AFSC                       | Survival In Solitary: A Manual Written by and for People Living in Control Units |
-| Haley Sweetland Edwards    | Shadow Courts: The Tribunals that Rule Global Trade |
-| Vaclav Havel               | The Power of The Powerless |
-| Naomi Klein                | The Shock Doctrine|
-| Julian Assange             | Cypherpunks: Freedom and the Future of the Internet
-| Herbert I. Schiller        | Culture, Inc.: The Corporate Takeover of Public Expression|
-| Combahee River Collective  | A Black Feminist Statement|
-| USCCB                      | Confronting A Culture of Violence: A Catholic Framework for Action|
-| Aleksandr Solzhenitsyn     | The Exhausted West|
-| Glenn Greenwald            | No Place to Hide|
-| Hannah Arendt              | Origins of Totalitarianism |
-| Michail Bakunin            | Man, Society, and Freedom |
-| Niel Postman               | Amusing Ourselves to Death |
-| Harold Pinter              | Nobel Lecture Speech|
-| Thomas Pynchon             | The Crying of Lot 49|
-| Leslie Hancock | C. Primer 
-| Leonard Peltier | Prison Writings: My Life Is My Sun Dance
-| Daniel Berrigan | The Kings and Their Gods: The Pathology of Power
-| Ralph Nader | Breaking Through Power: It's Easier Than We Think
-| Alexander L. George | Western State Terrorism
-| La Rochefoucauld | Maxims
-| Michel de Montaigne | Montaigne: Essays
-| Ellen F. Fitzpatrick | Muckraking: Three Landmark Articles
-| Eqbal Ahmad | Terrorism: Theirs and Ours
-
-## <=2016 (est.)
-|Author|Title|
-|----|------|
-| Percy Bysshe Shelley | The Masque of Anarchy |
-| Noam Chomsky | Manufacturing Consent |
-| Czeslaw Milosz | The Captive Mind |
-| John Carey, Editor | Eyewitness to History 
-| Edvard Kocbek | Poems: Microphone on the Wall, Rocket, On Freedom of Mind |
-| Umberto Eco| UR-Fascism |
-| Dmitri Borgmann| Language on Vacation an Olio of Orthographic Oddities |
-| Richard Feynman| The Pleasure of Finding Things Out |
-| Rosabeth Moss Kanter | Men and Women of the Corporation |
-| Barbara Demick | Nothing to Envy: Ordinary Lives in North Korea |
-| Andrzej Sapkowski | The Witcher: The Last Wish | 
-| Soren Kiekegaard | Sickness Unto Death |
-| Lapham's Quarterly | Volume IX, Number 4 Flesh | 
-| Lapham's Quarterly | Volume IX, Number 3 Luck | 
-| Lapham's Quarterly | Volume IX, Number 2 Disaster | 
-| Lapham's Quarterly | Volume IX, Number 1 Spies | 
-| Lapham's Quarterly | Volume VII, Number 4 Philanthropy | 
-| Lapham's Quarterly | Volume VII, Number 3 Fashion | 
-| Soren Kiekegaard | Fear and Trembling |
-| J. P. Sartre | Being and Nothingness |
-| Kevin Bale | Disposable People |
-| Stephen Hawking | A Brief History of Time |
-| J. P. Sartre | Existentialism as a Humanism |
-| Paul Tilich | The Courage To Be |
-| Roger Penrose | The Road to Reality |
-| Chinua Achebe | Things Fall Apart |
-| Shing Tung Yau | The Shape of Inner Space |
-| Mary Shelley | Frankenstein |
-| Tim O'Brien | The Things They Carried |
-| F Scott Fitzgerald | The Great Gatsby |
-| Ray Bradbury | Fahrenheit 491 |
-| Neil Stephenson | Reamde |
-| Bryan O'Sullivan | Real World Haskell |
-| Kees Doets | The Haskell Road to Logic, Maths and Programming |
-| Magnus Nilsson | Nordic: A Photographic Essay of Landscapes, Food and People |
-| Magnus Nilsson | Faviken |
-| Michael Collins | Hot lights: Cold Steel |
-| Atul Gwande | The Checklist Manifesto |
-| Elaine Dundy | The Dud Avocado |
-| Miran Lipovaca | Learn You a Haskell for Great Good: A Beginner's Guide |
-| Joe Newton | Coaching Cross Country Successfully |
-| Richard Crane | Running the Himalayas |
-
+|Author|Title| |
+|----|------|---|
+| Sarah Chayes | Theives of State: Why Corruption Threatens Global Security | Currently Reading |
+| Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery | Currently Reading |
+| Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Currently Reading |
+| Karel Čapek | War With The Newts | Currently Reading |
+| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) | Currently Reading |
+| Susan George | The Debt Boomerang | Currently Reading |
+| Howard Zinn |  Vietnam: The Logic of Withdrawal | 2020 |
+| Daniel Leader | Living Bread | 2020 |
+| Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars: The Untold Story | 2020 |
+| Jenny Brown | Without Apology: The Abortion Struggle Now | 2020 |
+| Matt Taibbi | Spank The Donkey: Dispatches from the Dumb Season | 2020 |
+| Rev. Nelson Johnson, Emily Mann | Greensboro: A Requiem |  2020 |
+| Leon Litwack | North of Slavery | 2020 |
+| Joe Sacco | Palestine |  2020 |
+| Robert Caro | The Years of Lyndon Johnson: The Path to Power (Book I) | 2020 |
+| Khalil Gibran | The Prophet | 2020 |
+| Khalil Gibran | The Garden of the Prophet | 2020 |
+| Lapham's Quarterly | Volume XIII, Number 2: Scandal |  2020 |
+| N.J. Prison Theater Cooperative | Caged: A Play | 2020 |
+| Gene Nichol | Indecent Assembly: The North Carolina Legislature's Blueprint for the War on Democracy and Equality |  2020 |
+| Paul Farmer | The Uses of Haiti | 2020 |
+| Margaret Kimberley | Prejudential: Black America and the Presidents | 2020 |
+| Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions | 2020 |
+| Paulo Freire | Cultural Action for Freedom | 2020 |
+| Lapham's Quarterly | Volume XIII, Number 1: Memory | 2020 |
+| Robert Caro | The Power Broker: Robert Moses and the Fall of New York| 2019 |
+| Alfred McCoy | In the Shadows of the American Century | 2019 |
+| James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America |  2019 |
+| Rick Unklesbay | Arbitrary Death: A Prosecutor's Perspective on the Death Penalty |  2019 |
+| Gene Nichol | The Faces of Poverty in North Carolina |  2019 |
+| Barbara Olshansky | America's Disappeared: Secret Imprisonment, Detainees, and the War on Terror |  2019 |
+| Wolfgang Kaleck | Law Versus Power|  2019 |
+| Mumia Abu-Jamal | Death Blossoms: Reflections from a Prisoner of Conscience |  2019 |
+| Claudia Whitman | Frontiers of Justice: Death Penalty (Book 1) |  2019 |
+| Peter Kropotkin| Mutual Aid: A Factor in Evolution|  2019 |
+| Lapham's Quarterly | Volume XII: Climate, Happiness, Trade, Night | 2019 |
+| Kenneth M Stampp | The Peculiar Institution|  2019 |
+| Liane Ellision Norman | Hammer of Justice: Molly Rush and the Plowshares Eight |  2019 |
+| Sarah Chayes | The Punishment of Virtue: Inside Afghanistan After the Taliban |  2019 |
+| Aviva Chomsky | Dying For Growth |  2019 |
+| James H. Cone| The Spirituals and The Blues|  2019 |
+| James H. Cone| The God of the Oppressed|  2019 |
+| Arundhati Roy | War Talk |  2019 |
+| Edvard Kocbek | Various Poems (Rocket, Microphone in the Wall, etc) | 2019 |
+| Peter Dauvergne | Environmentalism of the Rich |  2019 |
+| Toni Cade Bambara| Blue Ain't No Mockin Bird|  2019 |
+| Francis Moore Lappe| Diet for a Small Planet|  2019 |
+| Leon Litwack| Trouble In Mind|  2019 |
+| Ernst Renan| What is a Nation|  2019 |
+| Leon Litwack| How Free is Free?|  2019 |
+| Jonathan Kozol| Death at an Early Age|  2019 |
+| Kate Evans| Red Rosa| 2019 |
+| Emma Goldman | Anarchism & Other Essays| 2019 |
+| Richard Slotkin | Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America| 2019 |
+| Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer| 2018 |
+| Randolf Bourne | War and the Intellectuals| 2018 |
+| Chris Hedges | America: The Farwell Tour| 2018 |
+| Jonathan Swift| A Modest Proposal| 2018 |
+| Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire (Book One: Empire, Genocide, and Manifest Destiny)| 2018 |
+| Kate Crawford | Anatomy of an AI System | 2018 |
+| Lapham's Quarterly | Volume XI: Rule of Law, Rivalry and Feud, Water, States of Mind | 2018 |
+| Medicine Sans Frontiers | Humanitarian Negotiations Revealed | 2018 |
+| Medicine Sans Frontiers | In the Eyes of Others: How People in Crisis Perceive Humanitarian Air | 2018 |
+| Gareth Piece | Dispatches from the Darkside: On Torture and the Death of Justice | 2018 |
+| Augustin Souchy | With the Peasants of Aragon | 2018 |
+|  Didier Lefevre | The Photographer: Into War-torn Afghanistan With Doctors Without Borders | 2018 |
+| Joe Sacco | Palistine| 2018 |
+| David Harvey | A View from Federal Hill| 2018 |
+| Gustave Flaubert | Madame Bovary| 2018 |
+| Anna Akhmatova | Requiem| 2018 |
+| Joseph Tainter | Collapse of Complex Societies| 2018 |
+| Rudolf Rocker | The Tragedy of Spain | 2018 |
+| Sheldon Wolin | Politics and Vision | 2018 |
+| Sheldon Wolin | Political Theory as a Vocation | 2018 |
+| Anna Akhmatova | Poem Without a Hero| 2018 |
+| Sir John Glubb | The Fate of Empires and Search for Survival |  2018 |
+| Andrew Boyn | Beautiful Trouble: A Toolbox for Revolution | 2018 |
+| James H. Cone | Said I Wasn't Gonna Tell Nobody| 2018 |
+| Chris Hedges | American Fascists: The Christian Right and the War on America| 2018 |
+| James H. Cone | The Cross and The Lynching Tree| 2018 |
+| Reinhold Niebuhr | Moral Man and Immoral Society| 2018 |
+| Wikileaks | The WikiLeaks Files: The World According to US Empire| 2018 |
+|Seymour Hersh | Reporter| 2018 |
+|Thomas Ferguson | Industrial Structure and Party Competition in an Age of Hunger Games: Donald Trump and the 2016 Presidential Election | 2018 |
+| Simone Weil | The Illiad: or the Poem of Force| 2018 |
+|Sheldon Wolin              | Political Theory As a Vocation| 2018 |
+| Harold McKinder            | The Geographical Pivot of History | 2017 |
+| Joseph Conrad              | An Outpost of Progress| 2017 |
+| Bertolt Brecht             | The Radio as an Apparatus of Communication|  2017 |
+| Smedley Butler | War is a Racket | 2017 |
+| Chris Hedges | War is a Force That Gives Us Meaning | 2017 |
+| Max Weber | Politics as a Vocation | 2017 |
+| Lapham's Quarterly | Volume X: Music, Fear, Discovery, Home | 2017 |
+| Noam Chomsky               | Fate of an Honest Intellectual| 2017 |
+| Chris Hedges & Joe Sacco   | Days of Destruction, Days of Revolt| 2017 |
+| Martin Luther King Jr.     | Letter from the Birmingham Jail| 2017 |
+| Victor Montejo | Testimony: Death of a Guatemalan Village | 2017 |
+| Noam Chomsky | 9-11| 2017 |
+| Carolyn Forche | Against Forgetting: Twentieth Century Poems of Witness | 2017 |
+| George Orwell | Notes on Nationalism | 2017 |
+|  C. E. Shannon              | Communication Theory of Secrecy Systems | 2017 |
+| Neal Stephenson            | In the Beginning was the Command Line | 2017 |
+| Sam Dolgoff                | The Cuban Revolution A Critical Perspective | 2017 |
+| Percy Bysshe Shelley              | The Masque of Anarchy | 2017 |
+| China Mieville             | October| 2017 |
+| Borisov, et. al.           | Off-the-Record Communication or, Why Not To Use PGP | 2017 |
+| Franz Kafka                | The Castle | 2017 |
+| AFSC                       | Survival In Solitary: A Manual Written by and for People Living in Control Units | 2017 |
+| Haley Sweetland Edwards    | Shadow Courts: The Tribunals that Rule Global Trade | 2017 |
+| Vaclav Havel               | The Power of The Powerless | 2017 |
+| Naomi Klein                | The Shock Doctrine| 2017 |
+| Julian Assange             | Cypherpunks: Freedom and the Future of the Internet|  2017 |
+| Herbert I. Schiller        | Culture, Inc.: The Corporate Takeover of Public Expression| 2017 |
+| Combahee River Collective  | A Black Feminist Statement| 2017 |
+| USCCB                      | Confronting A Culture of Violence: A Catholic Framework for Action| 2017 |
+| Aleksandr Solzhenitsyn     | The Exhausted West| 2017 |
+| Glenn Greenwald            | No Place to Hide| 2017 |
+| Hannah Arendt              | Origins of Totalitarianism | 2017 |
+| Michail Bakunin            | Man, Society, and Freedom | 2017 |
+| Niel Postman               | Amusing Ourselves to Death | 2017 |
+| Harold Pinter              | Nobel Lecture Speech| 2017 |
+| Thomas Pynchon             | The Crying of Lot 49| 2017 |
+| Leslie Hancock | C. Primer |  2017 |
+| Leonard Peltier | Prison Writings: My Life Is My Sun Dance| 2017 |
+| Daniel Berrigan | The Kings and Their Gods: The Pathology of Power| 2017 |
+| Ralph Nader | Breaking Through Power: It's Easier Than We Think| 2017 |
+| Alexander L. George | Western State Terrorism| 2017 |
+| La Rochefoucauld | Maxims| 2017 |
+| Michel de Montaigne | Montaigne: Essays| 2017 |
+| Ellen F. Fitzpatrick | Muckraking: Three Landmark Articles| 2017 |
+| Eqbal Ahmad | Terrorism: Theirs and Ours| 2017 |
+| Percy Bysshe Shelley | The Masque of Anarchy | 2016 |
+| Noam Chomsky | Manufacturing Consent | 2016 |
+| Czeslaw Milosz | The Captive Mind | 2016 |
+| John Carey, Editor | Eyewitness to History | 2016 |
+| Edvard Kocbek | Poems: Microphone on the Wall, Rocket, On Freedom of Mind | 2016 |
+| Umberto Eco| UR-Fascism | 2016 |
+| Dmitri Borgmann| Language on Vacation an Olio of Orthographic Oddities | 2016 |
+| Richard Feynman| The Pleasure of Finding Things Out | 2016 |
+| Rosabeth Moss Kanter | Men and Women of the Corporation | 2016 |
+| Barbara Demick | Nothing to Envy: Ordinary Lives in North Korea | 2016 |
+| Andrzej Sapkowski | The Witcher: The Last Wish |  2016 |
+| Soren Kiekegaard | Sickness Unto Death | 2016 |
+| Lapham's Quarterly | Volume IX, Number 4 Flesh | 2016 | 
+| Lapham's Quarterly | Volume IX, Number 3 Luck |  2016 |
+| Lapham's Quarterly | Volume IX, Number 2 Disaster |  2016 |
+| Lapham's Quarterly | Volume IX, Number 1 Spies |  2016 |
+| Lapham's Quarterly | Volume VII, Number 4 Philanthropy | 2016 | 
+| Lapham's Quarterly | Volume VII, Number 3 Fashion |  2016 |
+| Soren Kiekegaard | Fear and Trembling | 2016 |
+| J. P. Sartre | Being and Nothingness | 2016 |
+| Kevin Bale | Disposable People | 2016 |
+| Stephen Hawking | A Brief History of Time | 2016 |
+| J. P. Sartre | Existentialism as a Humanism | 2016 |
+| Paul Tilich | The Courage To Be | 2016 |
+| Roger Penrose | The Road to Reality | 2016 |
+| Chinua Achebe | Things Fall Apart | 2016 |
+| Shing Tung Yau | The Shape of Inner Space | 2016 |
+| Mary Shelley | Frankenstein | 2016 |
+| Tim O'Brien | The Things They Carried | 2016 |
+| F Scott Fitzgerald | The Great Gatsby | 2016 |
+| Ray Bradbury | Fahrenheit 491 | 2016 |
+| Neil Stephenson | Reamde | 2016 |
+| Bryan O'Sullivan | Real World Haskell | 2016 |
+| Kees Doets | The Haskell Road to Logic, Maths and Programming | 2016 |
+| Magnus Nilsson | Nordic: A Photographic Essay of Landscapes, Food and People | 2016 |
+| Magnus Nilsson | Faviken | 2016 |
+| Michael Collins | Hot lights: Cold Steel | 2016 |
+| Atul Gwande | The Checklist Manifesto | 2016 |
+| Elaine Dundy | The Dud Avocado | 2016 |
+| Miran Lipovaca | Learn You a Haskell for Great Good: A Beginner's Guide | 2016 |
+| Joe Newton | Coaching Cross Country Successfully | 2016 |
+| Richard Crane | Running the Himalayas | 2016 |
