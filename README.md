@@ -1,11 +1,11 @@
 |Author|Title| |
 |----|------|---|
-| Sarah Chayes | Theives of State: Why Corruption Threatens Global Security | Currently Reading |
-| Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery | Currently Reading |
-| Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Currently Reading |
-| Karel Čapek | War With The Newts | Currently Reading |
-| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) | Currently Reading |
-| Susan George | The Debt Boomerang | Currently Reading |
+| Sarah Chayes | Theives of State: Why Corruption Threatens Global Security | Reading |
+| Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery | Reading |
+| Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
+| Karel Čapek | War With The Newts | Reading |
+| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) | Reading |
+| Susan George | The Debt Boomerang | Reading |
 | Howard Zinn |  Vietnam: The Logic of Withdrawal | 2020 |
 | Daniel Leader | Living Bread | 2020 |
 | Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars: The Untold Story | 2020 |
