@@ -1,16 +1,17 @@
-### Currently Reading 
+## Currently Reading 
 |Author|Title|
 |----|------| 
-| Howard Zinn |  Vietnam: The Logic of Withdrawal |
+| Sarah Chayes | Theives of State: Why Corruption Threatens Global Security |
 | Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |
 | Karel Čapek | War With The Newts |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) |
 | Susan George | The Debt Boomerang |
 
-### 2020
+## 2020
 |Author|Title|
 |----|------|
+| Howard Zinn |  Vietnam: The Logic of Withdrawal |
 | Daniel Leader | Living Bread |
 | Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars: The Untold Story |
 | Jenny Brown | Without Apology: The Abortion Struggle Now |
@@ -30,7 +31,7 @@
 | Paulo Freire | Cultural Action for Freedom |
 | Lapham's Quarterly | Volume XIII, Number 1: Memory |
 
-### 2019
+## 2019
 |Author|Title|
 |----|------|
 | Robert Caro | The Power Broker: Robert Moses and the Fall of New York| 
@@ -63,7 +64,7 @@
 | Emma Goldman | Anarchism & Other Essays|
 | Richard Slotkin | Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America|
 
-### 2018
+## 2018
 |Author|Title|
 |----|------|
 | Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer|
@@ -101,7 +102,7 @@
 |  Thomas Piketty | Capital in the Twenty-First Century |
 
 
-### 2017
+## 2017
 |Author|Title|
 |----|------|
 | Harold McKinder            | The Geographical Pivot of History|
@@ -150,7 +151,7 @@
 | Ellen F. Fitzpatrick | Muckraking: Three Landmark Articles
 | Eqbal Ahmad | Terrorism: Theirs and Ours
 
-### <=2016 (est.)
+## <=2016 (est.)
 |Author|Title|
 |----|------|
 | Percy Bysshe Shelley | The Masque of Anarchy |
