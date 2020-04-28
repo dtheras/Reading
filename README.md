@@ -2,6 +2,8 @@
 |----|------|---|
 | Sarah Chayes | Theives of State: Why Corruption Threatens Global Security | Reading |
 | Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery | Reading |
+| Cornel West | Black Prophetic Fire | Reading |
+| Jacques Ellul | The Technological Society | Reading |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
 | Karel Čapek | War With The Newts | Reading |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) | Reading |
