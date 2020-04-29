@@ -44,6 +44,7 @@
 | Aviva Chomsky | Dying For Growth |  2019 |
 | James H. Cone| The Spirituals and The Blues|  2019 |
 | James H. Cone| The God of the Oppressed|  2019 |
+| John Ralston Saul | Voltaire's Bastards |
 | Arundhati Roy | War Talk |  2019 |
 | Edvard Kocbek | Various Poems (Rocket, Microphone in the Wall, etc) | 2019 |
 | Peter Dauvergne | Environmentalism of the Rich |  2019 |
@@ -61,6 +62,7 @@
 | Chris Hedges | America: The Farwell Tour| 2018 |
 | Jonathan Swift| A Modest Proposal| 2018 |
 | Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire (Book One: Empire, Genocide, and Manifest Destiny)| 2018 |
+| Walter Lippman | Public Opinion |
 | Kate Crawford | Anatomy of an AI System | 2018 |
 | Lapham's Quarterly | Volume XI: Rule of Law, Rivalry and Feud, Water, States of Mind | 2018 |
 | Medicine Sans Frontiers | Humanitarian Negotiations Revealed | 2018 |
