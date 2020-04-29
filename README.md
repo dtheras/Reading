@@ -2,12 +2,12 @@
 |----|------|---|
 | Sarah Chayes | Theives of State: Why Corruption Threatens Global Security | Reading |
 | Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery | Reading |
-| Cornel West | Black Prophetic Fire | Reading |
 | Jacques Ellul | The Technological Society | Reading |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
 | Karel Čapek | War With The Newts | Reading |
-| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) | Reading |
 | Susan George | The Debt Boomerang | Reading |
+| Cornel West | Black Prophetic Fire | 2020 |
+| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) | 2020 |
 | Howard Zinn |  Vietnam: The Logic of Withdrawal | 2020 |
 | Daniel Leader | Living Bread | 2020 |
 | Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars: The Untold Story | 2020 |
