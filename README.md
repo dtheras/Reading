@@ -14,7 +14,7 @@
 | Jenny Brown | Without Apology: The Abortion Struggle Now | 2020 |
 | Matt Taibbi | Spank The Donkey: Dispatches from the Dumb Season | 2020 |
 | Rev. Nelson Johnson, Emily Mann | Greensboro: A Requiem |  2020 |
-| Leon Litwack | North of Slavery | 2020 |
+| Leon Litwack | North of Slavery: The Negro in the Free States, 1790-1860 | 2020 |
 | Joe Sacco | Palestine |  2020 |
 | Robert Caro | The Years of Lyndon Johnson: The Path to Power (Book I) | 2020 |
 | Khalil Gibran | The Prophet | 2020 |
