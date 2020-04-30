@@ -60,6 +60,7 @@
 | Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer| 2018 |
 | Randolf Bourne | War and the Intellectuals| 2018 |
 | Chris Hedges | America: The Farwell Tour| 2018 |
+| Christopher Stone | Should the Trees Have Standing? |
 | Jonathan Swift| A Modest Proposal| 2018 |
 | Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire (Book One: Empire, Genocide, and Manifest Destiny)| 2018 |
 | Walter Lippman | Public Opinion |
