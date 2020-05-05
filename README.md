@@ -6,6 +6,7 @@
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
 | Karel Čapek | War With The Newts | Reading |
 | Susan George | The Debt Boomerang | Reading |
+| Michael Moorcock | Epic Pooh | 2020 |
 | Cornel West | Black Prophetic Fire | 2020 |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind) | 2020 |
 | Howard Zinn |  Vietnam: The Logic of Withdrawal | 2020 |
