@@ -144,7 +144,7 @@
 | Czeslaw Milosz | The Captive Mind | 2016 |
 | John Carey, Editor | Eyewitness to History | 2016 |
 | Edvard Kocbek | Poems: Microphone on the Wall, Rocket, On Freedom of Mind | 2016 |
-| Umberto Eco| UR-Fascism | 2016 |
+| Umberto Eco| ur-fascism | 2016 |
 | Dmitri Borgmann| Language on Vacation an Olio of Orthographic Oddities | 2016 |
 | Richard Feynman| The Pleasure of Finding Things Out | 2016 |
 | Rosabeth Moss Kanter | Men and Women of the Corporation | 2016 |
