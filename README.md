@@ -2,11 +2,10 @@
 |----|------|---|
 | Sarah Chayes | Theives of State: Why Corruption Threatens Global Security | Reading |
 | Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery | Reading |
-| Jacques Ellul | The Technological Society | Reading |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
 | Karel Čapek | War With The Newts | Reading |
 | Susan George | The Debt Boomerang | Reading |
-|Magnus Nilsson | Nordic: A Photographic Essay of Landscapes | 2020|
+| Magnus Nilsson | Nordic: A Photographic Essay of Landscapes | 2020|
 | George Orwell | Animal Farm | 2020 | 
 | Ibrahim el-Salahi | Prison Notebook |2020
 | Michael Moorcock | Epic Pooh | 2020 |
