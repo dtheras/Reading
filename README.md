@@ -6,6 +6,7 @@
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
 | Karel Čapek | War With The Newts | Reading |
 | Susan George | The Debt Boomerang | Reading |
+|Magnus Nilsson | Nordic: A Photographic Essay of Landscapes | 2020|
 | George Orwell | Animal Farm | 2020 | 
 | Ibrahim el-Salahi | Prison Notebook |2020
 | Michael Moorcock | Epic Pooh | 2020 |
