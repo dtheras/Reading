@@ -5,6 +5,8 @@
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
 | Karel Čapek | War With The Newts | Reading |
 | Susan George | The Debt Boomerang | Reading |
+| General Smedley D. Butler | War Is A Racket | 2020 | 
+| Gore Vidal | Decline and Fall of the American Empire  | 2020 |
 | Magnus Nilsson | Nordic: A Photographic Essay of Landscapes | 2020|
 | George Orwell | Animal Farm | 2020 | 
 | Ibrahim el-Salahi | Prison Notebook |2020
