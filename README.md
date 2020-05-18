@@ -35,6 +35,7 @@
 | Lapham's Quarterly | Volume XIII, Number 1: Memory | 2020 |
 | Robert Caro | The Power Broker: Robert Moses and the Fall of New York| 2019 |
 | Alfred McCoy | In the Shadows of the American Century | 2019 |
+| Christopher Stone | Should the Trees Have Standing? | 2019 |
 | James Allen & Leon Litwack | Without Sanctuary: Lynching Photography in America |  2019 |
 | Rick Unklesbay | Arbitrary Death: A Prosecutor's Perspective on the Death Penalty |  2019 |
 | Gene Nichol | The Faces of Poverty in North Carolina |  2019 |
@@ -50,7 +51,7 @@
 | Aviva Chomsky | Dying For Growth |  2019 |
 | James H. Cone| The Spirituals and The Blues|  2019 |
 | James H. Cone| The God of the Oppressed|  2019 |
-| John Ralston Saul | Voltaire's Bastards |
+| John Ralston Saul | Voltaire's Bastards | 2019 |
 | Arundhati Roy | War Talk |  2019 |
 | Edvard Kocbek | Various Poems (Rocket, Microphone in the Wall, etc) | 2019 |
 | Peter Dauvergne | Environmentalism of the Rich |  2019 |
@@ -66,7 +67,6 @@
 | Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer| 2018 |
 | Randolf Bourne | War and the Intellectuals| 2018 |
 | Chris Hedges | America: The Farwell Tour| 2018 |
-| Christopher Stone | Should the Trees Have Standing? |
 | Jonathan Swift| A Modest Proposal| 2018 |
 | Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire (Book One: Empire, Genocide, and Manifest Destiny)| 2018 |
 | Walter Lippman | Public Opinion |
