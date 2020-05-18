@@ -1,10 +1,11 @@
 |Author|Title| |
 |----|------|---|
 | Sarah Chayes | Theives of State: Why Corruption Threatens Global Security | Reading |
-| Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery | Reading |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
 | Karel Čapek | War With The Newts | Reading |
 | Susan George | The Debt Boomerang | Reading |
+| Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery | 2020 |
+| Peter Mitchell, John Schoeffel | Understanding Power: The Indispensable Chomsky | 2020 | 
 | General Smedley D. Butler | War Is A Racket | 2020 | 
 | Gore Vidal | Decline and Fall of the American Empire  | 2020 |
 | Magnus Nilsson | Nordic: A Photographic Essay of Landscapes | 2020|
