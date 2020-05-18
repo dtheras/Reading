@@ -69,7 +69,7 @@
 | Chris Hedges | America: The Farwell Tour| 2018 |
 | Jonathan Swift| A Modest Proposal| 2018 |
 | Mumia Abu-Jamal, Stephen Vittoria | Murder Incorporated: Dreaming of Empire (Book One: Empire, Genocide, and Manifest Destiny)| 2018 |
-| Walter Lippman | Public Opinion |
+| Walter Lippman | Public Opinion | 2018 | 
 | Kate Crawford | Anatomy of an AI System | 2018 |
 | Lapham's Quarterly | Volume XI: Rule of Law, Rivalry and Feud, Water, States of Mind | 2018 |
 | Medicine Sans Frontiers | Humanitarian Negotiations Revealed | 2018 |
