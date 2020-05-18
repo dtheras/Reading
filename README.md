@@ -179,6 +179,7 @@
 | Magnus Nilsson | Nordic: A Photographic Essay of Landscapes, Food and People | 2016 |
 | Magnus Nilsson | Faviken | 2016 |
 | Michael Collins | Hot lights: Cold Steel | 2016 |
+| Atul Gwande | Complications: A Surgeon's Notes on an Imperfect Science | 2016 |
 | Atul Gwande | The Checklist Manifesto | 2016 |
 | Elaine Dundy | The Dud Avocado | 2016 |
 | Miran Lipovaca | Learn You a Haskell for Great Good: A Beginner's Guide | 2016 |
