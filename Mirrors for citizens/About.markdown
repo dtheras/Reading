@@ -1,3 +1,3 @@
 # About
 
-Collection that serves as mirrors for citizens, the theological counterwind, if you would, to the genre for princes (https://en.wikipedia.org/wiki/Mirrors_for_princes). 
+A collection of essays that go under Mirrors for Citizens, a theological counter to the paralell category for princes. 
