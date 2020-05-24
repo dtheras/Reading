@@ -4,6 +4,7 @@
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
 | Karel Čapek | War With The Newts | Reading |
 | Susan George | The Debt Boomerang | Reading |
+| Paul Boden | House Keys Not Handcuffs: Homeless Organizing, Art and Politics in San Francisco and Beyond | 2020 |
 | Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery | 2020 |
 | Peter Mitchell, John Schoeffel | Understanding Power: The Indispensable Chomsky | 2020 | 
 | General Smedley D. Butler | War Is A Racket | 2020 | 
