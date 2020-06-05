@@ -3,6 +3,7 @@
 | Sarah Chayes | Theives of State: Why Corruption Threatens Global Security | Reading |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | Reading |
 | Karel Čapek | War With The Newts | Reading |
+| Ann Pettifor | The Production of Money - How to Break the Power of Bankers | Reading |
 | Susan George | The Debt Boomerang | Reading |
 | Alex Cockburn | A Colossal Wreck: A Road Trip Through Political Scandal, Corruption and American Culture | 2020 |
 | Paul Boden | House Keys Not Handcuffs: Homeless Organizing, Art and Politics in San Francisco and Beyond | 2020 |
