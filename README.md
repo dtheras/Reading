@@ -163,6 +163,7 @@
 | Lapham's Quarterly | Volume IX, Number 3 Luck |  2016 |
 | Lapham's Quarterly | Volume IX, Number 2 Disaster |  2016 |
 | Lapham's Quarterly | Volume IX, Number 1 Spies |  2016 |
+| Anthony Kedia | Scar Tissue | 2016 |
 | Lapham's Quarterly | Volume VII, Number 4 Philanthropy | 2016 | 
 | Lapham's Quarterly | Volume VII, Number 3 Fashion |  2016 |
 | Soren Kiekegaard | Fear and Trembling | 2016 |
