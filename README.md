@@ -56,8 +56,9 @@
 | Arundhati Roy | War Talk |  2019 |
 | Edvard Kocbek | Various Poems (Rocket, Microphone in the Wall, etc) | 2019 |
 | Peter Dauvergne | Environmentalism of the Rich |  2019 |
-| Toni Cade Bambara| Blue Ain't No Mockin Bird|  2019 |
-| Francis Moore Lappe| Diet for a Small Planet|  2019 |
+| Toni Cade Bambara| Blue Ain't No Mockin Bird |  2019 |
+| Francis Moore Lappe| Diet for a Small Planet |  2019 |
+| Sean Michael Wilson | Iraq: Operation Corporate Takeover | 2019 |
 | Leon Litwack| Trouble In Mind|  2019 |
 | Ernst Renan| What is a Nation|  2019 |
 | Leon Litwack| How Free is Free?|  2019 |
@@ -77,7 +78,7 @@
 | Medicine Sans Frontiers | In the Eyes of Others: How People in Crisis Perceive Humanitarian Air | 2018 |
 | Gareth Piece | Dispatches from the Darkside: On Torture and the Death of Justice | 2018 |
 | Augustin Souchy | With the Peasants of Aragon | 2018 |
-|  Didier Lefevre | The Photographer: Into War-torn Afghanistan With Doctors Without Borders | 2018 |
+| Didier Lefevre | The Photographer: Into War-torn Afghanistan With Doctors Without Borders | 2018 |
 | Joe Sacco | Palistine| 2018 |
 | David Harvey | A View from Federal Hill| 2018 |
 | Gustave Flaubert | Madame Bovary| 2018 |
