@@ -1,6 +1,7 @@
 |Author|Title| |
 |----|------|---|
 | Ignazio Silone | Bread and Wine | 2020 |
+| Cornel West | Race Matters | 2020 |
 | Ralph Ellison | Invisible Man | 2020 |
 | Miguel de Cervantes | The Ingenious Gentleman Don Quixote of La Mancha | 2020 |
 | Alex Cockburn | A Colossal Wreck: A Road Trip Through Political Scandal, Corruption and American Culture | 2020 |
