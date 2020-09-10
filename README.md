@@ -1,5 +1,6 @@
 |Author|Title| |
 |----|------|---|
+| Randolph Bourne | War and the Intellectuals | 2020 |
 | Ignazio Silone | Bread and Wine | 2020 |
 | Cornel West | Race Matters | 2020 |
 | Ralph Ellison | Invisible Man | 2020 |
