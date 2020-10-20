@@ -1,5 +1,8 @@
-|Author|Title| |
+|Author|Title| Year |
 |----|------|---|
+| Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) | 2020 |
+| Max Blumenthal | The Managment of Savagery: How America's National Security State Fueled the Rise of Al Qaeda, ISIS, and Donald Trump | 2020 |
+| William Shakespeare | The Merchant of Venice | 2020 |
 | Randolph Bourne | War and the Intellectuals | 2020 |
 | Ignazio Silone | Bread and Wine | 2020 |
 | Cornel West | Race Matters | 2020 |
