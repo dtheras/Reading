@@ -1,32 +1,31 @@
-|Author|Title|
-|----|------|
-| 2020 | | 
+|Author|Title| Year |
+|----|------|---|
 | Victor Hugo | Les Miserables | 
-| Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |
-| Max Blumenthal | The Managment of Savagery: How America's National Security State Fueled the Rise of Al Qaeda, ISIS, and Donald Trump |
-| William Shakespeare | The Merchant of Venice | 
-| Randolph Bourne | War and the Intellectuals |
-| Ignazio Silone | Bread and Wine  |
-| Cornel West | Race Matters | 
-| Ralph Ellison | Invisible Man  |
-| Miguel de Cervantes | The Ingenious Gentleman Don Quixote of La Mancha  |
-| Alex Cockburn | A Colossal Wreck: A Road Trip Through Political Scandal, Corruption and American Culture  |
-| Paul Boden | House Keys Not Handcuffs: Homeless Organizing, Art and Politics in San Francisco and Beyond  |
-| Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery  |
-| Peter Mitchell, John Schoeffel | Understanding Power: The Indispensable Chomsky  | 
-| General Smedley D. Butler | War Is A Racket  | 
-| Gore Vidal | Decline and Fall of the American Empire   |
-| Magnus Nilsson | Nordic: A Photographic Essay of Landscapes |
-| George Orwell | Animal Farm  | 
-| Ibrahim el-Salahi | Prison Notebook |
-| Michael Moorcock | Epic Pooh  |
-| Cornel West | Black Prophetic Fire  |
-| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind)  |
-| Howard Zinn |  Vietnam: The Logic of Withdrawal |
-| Daniel Leader | Living Bread |
-| Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars: The Untold Story |
-| Jenny Brown | Without Apology: The Abortion Struggle Now |
-| Matt Taibbi | Spank The Donkey: Dispatches from the Dumb Season |
+| Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |2020 |
+| Max Blumenthal | The Managment of Savagery: How America's National Security State Fueled the Rise of Al Qaeda, ISIS, and Donald Trump |2020 |
+| William Shakespeare | The Merchant of Venice | 2020 |
+| Randolph Bourne | War and the Intellectuals |2020 |
+| Ignazio Silone | Bread and Wine  | 2020 |
+| Cornel West | Race Matters | 2020 |
+| Ralph Ellison | Invisible Man  |2020 |
+| Miguel de Cervantes | The Ingenious Gentleman Don Quixote of La Mancha  |2020 |
+| Alex Cockburn | A Colossal Wreck: A Road Trip Through Political Scandal, Corruption and American Culture  |2020 |
+| Paul Boden | House Keys Not Handcuffs: Homeless Organizing, Art and Politics in San Francisco and Beyond  |2020 |
+| Leon Litwack | Been in the Storm So Long: The Aftermath of Slavery  |2020 |
+| Peter Mitchell, John Schoeffel | Understanding Power: The Indispensable Chomsky  | 2020 |
+| General Smedley D. Butler | War Is A Racket  | 2020 |
+| Gore Vidal | Decline and Fall of the American Empire   |2020 |
+| Magnus Nilsson | Nordic: A Photographic Essay of Landscapes |2020 |
+| George Orwell | Animal Farm  | 2020 |
+| Ibrahim el-Salahi | Prison Notebook |2020 |
+| Michael Moorcock | Epic Pooh  |2020 |
+| Cornel West | Black Prophetic Fire  |2020 |
+| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind)  |2020 |
+| Howard Zinn |  Vietnam: The Logic of Withdrawal |2020 |
+| Daniel Leader | Living Bread |2020 |
+| Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars: The Untold Story |2020 |
+| Jenny Brown | Without Apology: The Abortion Struggle Now |2020 |
+| Matt Taibbi | Spank The Donkey: Dispatches from the Dumb Season |2020 |
 | Rev. Nelson Johnson, Emily Mann | Greensboro: A Requiem |  2020 |
 | Leon Litwack | North of Slavery: The Negro in the Free States, 1790-1860 | 2020 |
 | Joe Sacco | Palestine |  2020 |
@@ -37,9 +36,8 @@
 | N.J. Prison Theater Cooperative | Caged: A Play | 2020 |
 | Gene Nichol | Indecent Assembly: The North Carolina Legislature's Blueprint for the War on Democracy and Equality |  2020 |
 | Paul Farmer | The Uses of Haiti | 2020 |
-| Margaret Kimberley | Prejudential: Black America and the Presidents | 
-| 2019 | |
-| Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions |
+| Margaret Kimberley | Prejudential: Black America and the Presidents | 2020 |
+| Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions | 2019 |
 | Paulo Freire | Cultural Action for Freedom | 2020 |
 | Lapham's Quarterly | Volume XIII, Number 1: Memory | 2020 |
 | Robert Caro | The Power Broker: Robert Moses and the Fall of New York| 2019 |
@@ -74,8 +72,7 @@
 | Kate Evans| Red Rosa| 2019 |
 | Emma Goldman | Anarchism & Other Essays| 2019 |
 | Richard Slotkin | Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America| 2019 |
-| 2018 |  |
-| Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer |
+| Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer | 2018 |
 | Randolf Bourne | War and the Intellectuals| 2018 |
 | Chris Hedges | America: The Farwell Tour| 2018 |
 | Jonathan Swift| A Modest Proposal| 2018 |
@@ -108,8 +105,7 @@
 |Thomas Ferguson | Industrial Structure and Party Competition in an Age of Hunger Games: Donald Trump and the 2016 Presidential Election | 2018 |
 | Simone Weil | The Illiad: or the Poem of Force| 2018 |
 |Sheldon Wolin              | Political Theory As a Vocation| 2018 |
-| 2017 | 
-| Harold McKinder            | The Geographical Pivot of History |
+| Harold McKinder            | The Geographical Pivot of History | 2017|
 | Joseph Conrad              | An Outpost of Progress| 2017 |
 | Bertolt Brecht             | The Radio as an Apparatus of Communication|  2017 |
 | Smedley Butler | War is a Racket | 2017 |
