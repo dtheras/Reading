@@ -37,8 +37,9 @@
 | N.J. Prison Theater Cooperative | Caged: A Play | 2020 |
 | Gene Nichol | Indecent Assembly: The North Carolina Legislature's Blueprint for the War on Democracy and Equality |  2020 |
 | Paul Farmer | The Uses of Haiti | 2020 |
-| Margaret Kimberley | Prejudential: Black America and the Presidents | 2020 |
-| Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions | 2020 |
+| Margaret Kimberley | Prejudential: Black America and the Presidents | 
+| 2019 | |
+| Karen Armstrong | The Great Transformation: The Beginning of Our Religious Traditions |
 | Paulo Freire | Cultural Action for Freedom | 2020 |
 | Lapham's Quarterly | Volume XIII, Number 1: Memory | 2020 |
 | Robert Caro | The Power Broker: Robert Moses and the Fall of New York| 2019 |
@@ -73,7 +74,8 @@
 | Kate Evans| Red Rosa| 2019 |
 | Emma Goldman | Anarchism & Other Essays| 2019 |
 | Richard Slotkin | Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America| 2019 |
-| Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer| 2018 |
+| 2018 |  |
+| Alex Vltchek | Exile: Conversations with Pramoedya Ananta Toer |
 | Randolf Bourne | War and the Intellectuals| 2018 |
 | Chris Hedges | America: The Farwell Tour| 2018 |
 | Jonathan Swift| A Modest Proposal| 2018 |
@@ -106,7 +108,8 @@
 |Thomas Ferguson | Industrial Structure and Party Competition in an Age of Hunger Games: Donald Trump and the 2016 Presidential Election | 2018 |
 | Simone Weil | The Illiad: or the Poem of Force| 2018 |
 |Sheldon Wolin              | Political Theory As a Vocation| 2018 |
-| Harold McKinder            | The Geographical Pivot of History | 2017 |
+| 2017 | 
+| Harold McKinder            | The Geographical Pivot of History |
 | Joseph Conrad              | An Outpost of Progress| 2017 |
 | Bertolt Brecht             | The Radio as an Apparatus of Communication|  2017 |
 | Smedley Butler | War is a Racket | 2017 |
