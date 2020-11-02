@@ -1,6 +1,6 @@
 |Author|Title| Year |
 |----|------|---|
-| Victor Hugo | Les Miserables | 
+| Victor Hugo | Les Miserables | 2020 |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |2020 |
 | Max Blumenthal | The Managment of Savagery: How America's National Security State Fueled the Rise of Al Qaeda, ISIS, and Donald Trump |2020 |
 | William Shakespeare | The Merchant of Venice | 2020 |
