@@ -1,5 +1,6 @@
 |Author|Title| Year |
 |----|------|---|
+| Joe Sacco | Journalism | 2020 |
 | James Joyce | The Dead | 2020 |
 | Victor Hugo | Les Miserables | 2020 |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |2020 |
