@@ -1,5 +1,6 @@
 |Author|Title| Year |
 |----|------|---|
+| James Joyce | The Dead | 2020 |
 | Victor Hugo | Les Miserables | 2020 |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |2020 |
 | Max Blumenthal | The Managment of Savagery: How America's National Security State Fueled the Rise of Al Qaeda, ISIS, and Donald Trump |2020 |
