@@ -25,7 +25,7 @@
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind)  |2020 |
 | Howard Zinn |  Vietnam: The Logic of Withdrawal |2020 |
 | Daniel Leader | Living Bread |2020 |
-| Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars: The Untold Story |2020 |
+| Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars |2020 |
 | Jenny Brown | Without Apology: The Abortion Struggle Now |2020 |
 | Matt Taibbi | Spank The Donkey: Dispatches from the Dumb Season |2020 |
 | Rev. Nelson Johnson, Emily Mann | Greensboro: A Requiem |  2020 |
