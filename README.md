@@ -196,3 +196,6 @@
 | Miran Lipovaca | Learn You a Haskell for Great Good: A Beginner's Guide | 2016 |
 | Joe Newton | Coaching Cross Country Successfully | 2016 |
 | Richard Crane | Running the Himalayas | 2016 |
+| Robert Jordan | The Dragon Reborn | 2015 |
+| Robert Jordan | The Great Hunt | 2014 |
+| Robert Jordan | The Eye of the World | 2014 |
