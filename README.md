@@ -196,6 +196,6 @@
 | Miran Lipovaca | Learn You a Haskell for Great Good: A Beginner's Guide | 2016 |
 | Joe Newton | Coaching Cross Country Successfully | 2016 |
 | Richard Crane | Running the Himalayas | 2016 |
-| Robert Jordan | The Dragon Reborn | 2015 |
-| Robert Jordan | The Great Hunt | 2014 |
-| Robert Jordan | The Eye of the World | 2014 |
+| Robert Jordan | The Dragon Reborn (Wheel of Time Series: Book III) | 2015 |
+| Robert Jordan | The Great Hunt (Wheel of Time Series: Book II) | 2014 |
+| Robert Jordan | The Eye of the World (Wheel of Time Series: Book I) | 2014 |
