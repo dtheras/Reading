@@ -1,5 +1,6 @@
 |Author|Title| Year |
 |----|------|---|
+|Harold Abelson, Gerald Jay Sussman | Structure and Interpretation of Computer Programs | 2020 |
 | Joe Sacco | Journalism | 2020 |
 | James Joyce | The Dead | 2020 |
 | Victor Hugo | Les Miserables | 2020 |
