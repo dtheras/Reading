@@ -1,11 +1,12 @@
 |Author|Title| Year |
 |----|------|---|
+| Adolph Reed Jr. | Essays/Papers: Liberals I Do Dispise; Nothing Left; Antiracism: A Neoliberal Alternative to a Left; Race, Class, Crisis: The Discourse of Racial Disparity and Its Analytical Discontents; Socialism and the Argument Against Race Reductionism; The Case Against Reparations | 2020 |
 |Harold Abelson, Gerald Jay Sussman | Structure and Interpretation of Computer Programs | 2020 |
 | Joe Sacco | Journalism | 2020 |
 | James Joyce | The Dead | 2020 |
 | Victor Hugo | Les Miserables | 2020 |
 | Robert Caro | The Years of Lyndon Johnson: Means of Ascent (Book II) |2020 |
-| Max Blumenthal | The Managment of Savagery: How America's National Security State Fueled the Rise of Al Qaeda, ISIS, and Donald Trump |2020 |
+| Max Blumenthal | The Managment of Savagery: How America's National Security State Fueled the Rise of Al Qaeda, ISIS, and Donald Trump | 2020 |
 | William Shakespeare | The Merchant of Venice | 2020 |
 | Randolph Bourne | War and the Intellectuals |2020 |
 | Ignazio Silone | Bread and Wine  | 2020 |
