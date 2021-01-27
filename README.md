@@ -1,5 +1,8 @@
 |Author|Title| Year |
 |----|------|---|
+| A Child in Palestine: The Cartoons of Naji al-Ali | Naji al-Ali | 2021 |
+| Paying The Land | Joe Sacco | 2021 |
+| Swann's Way | Marcel Proust | 2021 | 
 | Adolph Reed Jr. | Numerous Essays/Papers(Liberals I Do Dispise, Nothing Left, Antiracism: A Neoliberal Alternative to a Left, Race, Class, Crisis: The Discourse of Racial Disparity and Its Analytical Discontents, etc.) | 2020 |
 |Harold Abelson, Gerald Jay Sussman | Structure and Interpretation of Computer Programs | 2020 |
 | Joe Sacco | Journalism | 2020 |
