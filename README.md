@@ -1,5 +1,7 @@
 |Author|Title| Year |
 |----|------|---|
+| Chris Hedges | Wages of Rebellion: The Moral Imperative of Revolt | 2021|
+| James H. Cone | Black Theology and Black Power | 2021|
  | Naji al-Ali | A Child in Palestine: The Cartoons of Naji al-Ali| 2021 |
 | Joe Sacco |  Paying The Land| 2021 |
 | Marcel Proust | Swann's Way | 2021 | 
