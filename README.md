@@ -1,5 +1,6 @@
 |Author|Title| Year |
 |----|------|---|
+| Adolph Reed Jr. | Class Notes: Posing As Politics and Other Thoughts on the American Scene | 2021 |
 | Elaine Mokhtefi | Algiers, Third World Capital: Freedom Fighters, Revolutionaries, Black Panthers | 2021 |
 | Chris Hedges | Wages of Rebellion: The Moral Imperative of Revolt | 2021 |
 | James H. Cone | Black Theology and Black Power | 2021 |
