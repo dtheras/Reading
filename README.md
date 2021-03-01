@@ -4,9 +4,9 @@
 | Elaine Mokhtefi | Algiers, Third World Capital: Freedom Fighters, Revolutionaries, Black Panthers | 2021 |
 | Chris Hedges | Wages of Rebellion: The Moral Imperative of Revolt | 2021 |
 | James H. Cone | Black Theology and Black Power | 2021 |
- | Naji al-Ali | A Child in Palestine: The Cartoons of Naji al-Ali| 2021 |
-| Joe Sacco |  Paying The Land| 2021 |
-| Marcel Proust | Swann's Way | 2021 | 
+| Naji al-Ali | A Child in Palestine: The Cartoons of Naji al-Ali| 2021 |
+| Joe Sacco |  Paying The Land | 2021 |
+| Marcel Proust | Swann's Way (In Search of Lost Time: Volume I) | 2021 | 
 | Adolph Reed Jr. | Numerous Essays/Papers(Liberals I Do Dispise, Nothing Left, Antiracism: A Neoliberal Alternative to a Left, Race, Class, Crisis: The Discourse of Racial Disparity and Its Analytical Discontents, etc.) | 2020 |
 |Harold Abelson, Gerald Jay Sussman | Structure and Interpretation of Computer Programs | 2020 |
 | Joe Sacco | Journalism | 2020 |
