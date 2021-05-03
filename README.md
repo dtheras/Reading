@@ -1,5 +1,7 @@
 |Author|Title| Year |
 |----|------|---|
+| Mohamed Choukri | For Bread Alone | 2021 |
+| Gabriel Garcia Marquez | Hundred Years of Solitude | 2021 |
 | Adolph Reed Jr. | Class Notes: Posing As Politics and Other Thoughts on the American Scene | 2021 |
 | Elaine Mokhtefi | Algiers, Third World Capital: Freedom Fighters, Revolutionaries, Black Panthers | 2021 |
 | Chris Hedges | Wages of Rebellion: The Moral Imperative of Revolt | 2021 |
