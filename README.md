@@ -1,5 +1,6 @@
 |Author|Title| Year |
 |----|------|---|
+| James Baldwin | Go Tell It On The Mountain | 2021 |
 | Octavia Butler | Bloodchild | 2021 |
 | N.J. Prison Theater Cooperative |	Caged: A Play | 2021 |
 | Mohamed Choukri | For Bread Alone | 2021 |
