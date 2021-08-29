@@ -1,5 +1,6 @@
 |Author|Title| Year |
 |----|------|---|
+| Ariel Sabar | Veritas: A Harvard Professor, a Con Man, and the Gospel of Jesus's Wife | 2021 |
 | James Baldwin | Go Tell It On The Mountain | 2021 |
 | Octavia Butler | Bloodchild | 2021 |
 | N.J. Prison Theater Cooperative |	Caged: A Play | 2021 |
