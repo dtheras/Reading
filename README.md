@@ -1,5 +1,7 @@
 |Author|Title| Year |
 |----|------|---|
+| Karen E. Fields, Barbara J. Fields | Racecraft: The Soul of Inequality in American Life | 2021 |
+| Christopher Alexander, et al. | A Pattern Language: Towns, Buildings, Construction | 2021 |
 | Ariel Sabar | Veritas: A Harvard Professor, a Con Man, and the Gospel of Jesus's Wife | 2021 |
 | James Baldwin | Go Tell It On The Mountain | 2021 |
 | Octavia Butler | Bloodchild | 2021 |
