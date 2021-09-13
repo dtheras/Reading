@@ -1,5 +1,7 @@
 |Author|Title| Year |
 |----|------|---|
+| Stratis Myrivilis | Life in the Tomb | 2021 |
+| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind)  | 2021 |
 | Karen E. Fields, Barbara J. Fields | Racecraft: The Soul of Inequality in American Life | 2021 |
 | Christopher Alexander, et al. | A Pattern Language: Towns, Buildings, Construction | 2021 |
 | Ariel Sabar | Veritas: A Harvard Professor, a Con Man, and the Gospel of Jesus's Wife | 2021 |
@@ -37,9 +39,8 @@
 | Magnus Nilsson | Nordic: A Photographic Essay of Landscapes |2020 |
 | George Orwell | Animal Farm  | 2020 |
 | Ibrahim el-Salahi | Prison Notebook |2020 |
-| Michael Moorcock | Epic Pooh  |2020 |
-| Cornel West | Black Prophetic Fire  |2020 |
-| Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind)  |2020 |
+| Michael Moorcock | Epic Pooh  | 2020 |
+| Cornel West | Black Prophetic Fire  | 2020 |
 | Howard Zinn |  Vietnam: The Logic of Withdrawal |2020 |
 | Daniel Leader | Living Bread |2020 |
 | Ann Jones | They Were Soldiers: How the Wounded Return from America's Wars |2020 |
