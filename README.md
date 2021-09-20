@@ -1,5 +1,6 @@
 |Author|Title| Year |
 |----|------|---|
+| Marcel Proust, Scott Moncrieff (Translator) | Within A Budding Grove (In Search of Lost Time: Volume II) | 2021 |
 | Stratis Myrivilis | Life in the Tomb | 2021 |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind)  | 2021 |
 | Karen E. Fields, Barbara J. Fields | Racecraft: The Soul of Inequality in American Life | 2021 |
@@ -16,7 +17,7 @@
 | James H. Cone | Black Theology and Black Power | 2021 |
 | Naji al-Ali | A Child in Palestine: The Cartoons of Naji al-Ali| 2021 |
 | Joe Sacco |  Paying The Land | 2021 |
-| Marcel Proust | Swann's Way (In Search of Lost Time: Volume I) | 2021 | 
+| Marcel Proust, Lydia Davis (Translator) | Swann's Way (In Search of Lost Time: Volume I) | 2021 | 
 | Adolph Reed Jr. | Numerous Essays/Papers(Liberals I Do Dispise, Nothing Left, Antiracism: A Neoliberal Alternative to a Left, Race, Class, Crisis: The Discourse of Racial Disparity and Its Analytical Discontents, etc.) | 2020 |
 |Harold Abelson, Gerald Jay Sussman | Structure and Interpretation of Computer Programs | 2020 |
 | Joe Sacco | Journalism | 2020 |
