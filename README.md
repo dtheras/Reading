@@ -1,5 +1,8 @@
 |Author|Title| Year |
 |----|------|---|
+| Ted Pellegatta | Lyric: Words on a Page II | 2021 |
+| Ted Pellegatta | Lyric: Words on a Page | 2021 |
+| Ted Pellegatta | Virginia’s Blue Ridge | 2021 |
 | Marcel Proust, Scott Moncrieff (Translator) | Within A Budding Grove (In Search of Lost Time: Volume II) | 2021 |
 | Stratis Myrivilis | Life in the Tomb | 2021 |
 | Pramoedya Ananta Toer | Bumi Manusia (The Buru Quartet I: This Earth of Mankind)  | 2021 |
