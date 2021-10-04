@@ -193,11 +193,8 @@
 | Anthony Kedia | Scar Tissue | 2016 |
 | Lapham's Quarterly | Volume VII, Number 4 Philanthropy | 2016 | 
 | Lapham's Quarterly | Volume VII, Number 3 Fashion |  2016 |
-| Soren Kiekegaard | Fear and Trembling | 2016 |
-| J. P. Sartre | Being and Nothingness | 2016 |
 | Kevin Bale | Disposable People | 2016 |
 | Stephen Hawking | A Brief History of Time | 2016 |
-| J. P. Sartre | Existentialism as a Humanism | 2016 |
 | Paul Tilich | The Courage To Be | 2016 |
 | Roger Penrose | The Road to Reality | 2016 |
 | Chinua Achebe | Things Fall Apart | 2016 |
@@ -221,3 +218,13 @@
 | Robert Jordan | The Dragon Reborn (Wheel of Time Series: Book III) | 2015 |
 | Robert Jordan | The Great Hunt (Wheel of Time Series: Book II) | 2014 |
 | Robert Jordan | The Eye of the World (Wheel of Time Series: Book I) | 2014 |
+| Jean Paul Sartre | Existentialism as a Humanism | 2014 |
+| Martin Heidegger | Being and Time | 2014 |
+| Soren Kiekegaard | Fear and Trembling | 2014 |
+| Jean Paul Sartre | Being and Nothingness | 2014 |
+| Friedrich Nietzsche | The Gay Science | 2014 |
+| Friedrich Nietzsche | Thus Spoke Zarathustra | 2014 |
+| Friedrich Nietzsche | Beyond Good and Evil | 2014 |
+| Friedrich Nietzsche | On the Genealogy of Morality | 2014 |
+| Friedrich Nietzsche | Twilight of the Idols | 2014 |
+
