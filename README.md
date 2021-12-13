@@ -1,5 +1,7 @@
 |Author|Title| Year |
 |----|------|---|
+| Chris Hedges | Our Class: Trauma and Transformation in an American Prison | 2021 |
+| Glen Ford | The Black Agenda | 2021 |
 | Ted Pellegatta | Lyric: Words on a Page II | 2021 |
 | Ted Pellegatta | Lyric: Words on a Page | 2021 |
 | Ted Pellegatta | Virginia’s Blue Ridge | 2021 |
