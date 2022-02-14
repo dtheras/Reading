@@ -1,5 +1,7 @@
 |Author|Title| Year |
 |----|------|---|
+| Herman Melville | Moby Dick | 2022 |
+| Adolph Reed Jr. | The South: Jim Crow and Its Afterlives | 2022 |
 | Chris Hedges | Our Class: Trauma and Transformation in an American Prison | 2021 |
 | Glen Ford | The Black Agenda | 2021 |
 | Ted Pellegatta | Lyric: Words on a Page II | 2021 |
