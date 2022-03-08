@@ -1,5 +1,7 @@
 |Author|Title| Year |
 |----|------|---|
+| Stratis Myrivilis | Life in the Tomb | 2022 |
+| Kai Bird, Martin Sherwin | American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer | 2022 |
 | Herman Melville | Moby Dick | 2022 |
 | Adolph Reed Jr. | The South: Jim Crow and Its Afterlives | 2022 |
 | Chris Hedges | Our Class: Trauma and Transformation in an American Prison | 2021 |
