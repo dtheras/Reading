@@ -1,5 +1,6 @@
 |Author|Title| Year |
 |----|------|---|
+| Matt Taibbi | Hate Inc. Why Today's Media Makes Us Despise One Another | 2022 | 
 | Stratis Myrivilis | Life in the Tomb | 2022 |
 | Kai Bird, Martin Sherwin | American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer | 2022 |
 | Herman Melville | Moby Dick | 2022 |
